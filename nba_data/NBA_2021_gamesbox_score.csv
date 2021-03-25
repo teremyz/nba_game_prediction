@@ -1,0 +1,640 @@
+,date,hour,visitor,visitor_id,visitor_score,home,home_id,home_score,box_score_link,OT,att
+0,"Tue, Dec 22, 2020",10:00p,Los Angeles Clippers,/teams/LAC/2021.html,116,Los Angeles Lakers,/teams/LAL/2021.html,109,/boxscores/202012220LAL.html,,0
+1,"Wed, Dec 23, 2020",7:00p,Charlotte Hornets,/teams/CHO/2021.html,114,Cleveland Cavaliers,/teams/CLE/2021.html,121,/boxscores/202012230CLE.html,,300
+2,"Wed, Dec 23, 2020",7:00p,New York Knicks,/teams/NYK/2021.html,107,Indiana Pacers,/teams/IND/2021.html,121,/boxscores/202012230IND.html,,0
+3,"Wed, Dec 23, 2020",7:00p,Miami Heat,/teams/MIA/2021.html,107,Orlando Magic,/teams/ORL/2021.html,113,/boxscores/202012230ORL.html,,"3,396"
+4,"Wed, Dec 23, 2020",7:00p,Washington Wizards,/teams/WAS/2021.html,107,Philadelphia 76ers,/teams/PHI/2021.html,113,/boxscores/202012230PHI.html,,0
+5,"Wed, Dec 23, 2020",7:30p,New Orleans Pelicans,/teams/NOP/2021.html,113,Toronto Raptors,/teams/TOR/2021.html,99,/boxscores/202012230TOR.html,,"3,800"
+6,"Wed, Dec 23, 2020",7:30p,Milwaukee Bucks,/teams/MIL/2021.html,121,Boston Celtics,/teams/BOS/2021.html,122,/boxscores/202012230BOS.html,,0
+7,"Wed, Dec 23, 2020",8:00p,Atlanta Hawks,/teams/ATL/2021.html,124,Chicago Bulls,/teams/CHI/2021.html,104,/boxscores/202012230CHI.html,,0
+8,"Wed, Dec 23, 2020",8:00p,San Antonio Spurs,/teams/SAS/2021.html,131,Memphis Grizzlies,/teams/MEM/2021.html,119,/boxscores/202012230MEM.html,,0
+9,"Wed, Dec 23, 2020",8:00p,Detroit Pistons,/teams/DET/2021.html,101,Minnesota Timberwolves,/teams/MIN/2021.html,111,/boxscores/202012230MIN.html,,0
+10,"Wed, Dec 23, 2020",9:00p,Sacramento Kings,/teams/SAC/2021.html,124,Denver Nuggets,/teams/DEN/2021.html,122,/boxscores/202012230DEN.html,OT,0
+11,"Wed, Dec 23, 2020",10:00p,Utah Jazz,/teams/UTA/2021.html,120,Portland Trail Blazers,/teams/POR/2021.html,100,/boxscores/202012230POR.html,,0
+12,"Wed, Dec 23, 2020",10:30p,Dallas Mavericks,/teams/DAL/2021.html,102,Phoenix Suns,/teams/PHO/2021.html,106,/boxscores/202012230PHO.html,,0
+13,"Fri, Dec 25, 2020",12:00p,New Orleans Pelicans,/teams/NOP/2021.html,98,Miami Heat,/teams/MIA/2021.html,111,/boxscores/202012250MIA.html,,0
+14,"Fri, Dec 25, 2020",2:30p,Golden State Warriors,/teams/GSW/2021.html,99,Milwaukee Bucks,/teams/MIL/2021.html,138,/boxscores/202012250MIL.html,,0
+15,"Fri, Dec 25, 2020",5:00p,Brooklyn Nets,/teams/BRK/2021.html,123,Boston Celtics,/teams/BOS/2021.html,95,/boxscores/202012250BOS.html,,0
+16,"Fri, Dec 25, 2020",8:00p,Dallas Mavericks,/teams/DAL/2021.html,115,Los Angeles Lakers,/teams/LAL/2021.html,138,/boxscores/202012250LAL.html,,0
+17,"Fri, Dec 25, 2020",10:30p,Los Angeles Clippers,/teams/LAC/2021.html,121,Denver Nuggets,/teams/DEN/2021.html,108,/boxscores/202012250DEN.html,,0
+18,"Sat, Dec 26, 2020",5:00p,Atlanta Hawks,/teams/ATL/2021.html,122,Memphis Grizzlies,/teams/MEM/2021.html,112,/boxscores/202012260MEM.html,,0
+19,"Sat, Dec 26, 2020",7:00p,Oklahoma City Thunder,/teams/OKC/2021.html,109,Charlotte Hornets,/teams/CHO/2021.html,107,/boxscores/202012260CHO.html,,0
+20,"Sat, Dec 26, 2020",7:00p,Cleveland Cavaliers,/teams/CLE/2021.html,128,Detroit Pistons,/teams/DET/2021.html,119,/boxscores/202012260DET.html,2OT,0
+21,"Sat, Dec 26, 2020",7:00p,Orlando Magic,/teams/ORL/2021.html,130,Washington Wizards,/teams/WAS/2021.html,120,/boxscores/202012260WAS.html,,0
+22,"Sat, Dec 26, 2020",7:30p,Philadelphia 76ers,/teams/PHI/2021.html,109,New York Knicks,/teams/NYK/2021.html,89,/boxscores/202012260NYK.html,,0
+23,"Sat, Dec 26, 2020",8:00p,Indiana Pacers,/teams/IND/2021.html,125,Chicago Bulls,/teams/CHI/2021.html,106,/boxscores/202012260CHI.html,,0
+24,"Sat, Dec 26, 2020",8:30p,Toronto Raptors,/teams/TOR/2021.html,114,San Antonio Spurs,/teams/SAS/2021.html,119,/boxscores/202012260SAS.html,,0
+25,"Sat, Dec 26, 2020",9:00p,Minnesota Timberwolves,/teams/MIN/2021.html,116,Utah Jazz,/teams/UTA/2021.html,111,/boxscores/202012260UTA.html,,"1,932"
+26,"Sat, Dec 26, 2020",10:00p,Houston Rockets,/teams/HOU/2021.html,126,Portland Trail Blazers,/teams/POR/2021.html,128,/boxscores/202012260POR.html,OT,0
+27,"Sat, Dec 26, 2020",10:00p,Phoenix Suns,/teams/PHO/2021.html,103,Sacramento Kings,/teams/SAC/2021.html,106,/boxscores/202012260SAC.html,,0
+28,"Sun, Dec 27, 2020",3:30p,Dallas Mavericks,/teams/DAL/2021.html,124,Los Angeles Clippers,/teams/LAC/2021.html,73,/boxscores/202012270LAC.html,,0
+29,"Sun, Dec 27, 2020",7:00p,San Antonio Spurs,/teams/SAS/2021.html,95,New Orleans Pelicans,/teams/NOP/2021.html,98,/boxscores/202012270NOP.html,,750
+30,"Sun, Dec 27, 2020",7:00p,Orlando Magic,/teams/ORL/2021.html,120,Washington Wizards,/teams/WAS/2021.html,113,/boxscores/202012270WAS.html,,0
+31,"Sun, Dec 27, 2020",7:00p,Brooklyn Nets,/teams/BRK/2021.html,104,Charlotte Hornets,/teams/CHO/2021.html,106,/boxscores/202012270CHO.html,,0
+32,"Sun, Dec 27, 2020",7:30p,Philadelphia 76ers,/teams/PHI/2021.html,94,Cleveland Cavaliers,/teams/CLE/2021.html,118,/boxscores/202012270CLE.html,,300
+33,"Sun, Dec 27, 2020",7:30p,Milwaukee Bucks,/teams/MIL/2021.html,110,New York Knicks,/teams/NYK/2021.html,130,/boxscores/202012270NYK.html,,0
+34,"Sun, Dec 27, 2020",8:00p,Boston Celtics,/teams/BOS/2021.html,107,Indiana Pacers,/teams/IND/2021.html,108,/boxscores/202012270IND.html,,0
+35,"Sun, Dec 27, 2020",8:00p,Golden State Warriors,/teams/GSW/2021.html,129,Chicago Bulls,/teams/CHI/2021.html,128,/boxscores/202012270CHI.html,,0
+36,"Sun, Dec 27, 2020",9:00p,Phoenix Suns,/teams/PHO/2021.html,116,Sacramento Kings,/teams/SAC/2021.html,100,/boxscores/202012270SAC.html,,0
+37,"Sun, Dec 27, 2020",10:00p,Minnesota Timberwolves,/teams/MIN/2021.html,91,Los Angeles Lakers,/teams/LAL/2021.html,127,/boxscores/202012270LAL.html,,0
+38,"Mon, Dec 28, 2020",7:30p,Memphis Grizzlies,/teams/MEM/2021.html,116,Brooklyn Nets,/teams/BRK/2021.html,111,/boxscores/202012280BRK.html,OT,0
+39,"Mon, Dec 28, 2020",7:30p,Detroit Pistons,/teams/DET/2021.html,120,Atlanta Hawks,/teams/ATL/2021.html,128,/boxscores/202012280ATL.html,,0
+40,"Mon, Dec 28, 2020",8:00p,Utah Jazz,/teams/UTA/2021.html,110,Oklahoma City Thunder,/teams/OKC/2021.html,109,/boxscores/202012280OKC.html,,0
+41,"Mon, Dec 28, 2020",9:00p,Houston Rockets,/teams/HOU/2021.html,111,Denver Nuggets,/teams/DEN/2021.html,124,/boxscores/202012280DEN.html,,0
+42,"Mon, Dec 28, 2020",10:00p,Portland Trail Blazers,/teams/POR/2021.html,115,Los Angeles Lakers,/teams/LAL/2021.html,107,/boxscores/202012280LAL.html,,0
+43,"Tue, Dec 29, 2020",7:00p,New York Knicks,/teams/NYK/2021.html,95,Cleveland Cavaliers,/teams/CLE/2021.html,86,/boxscores/202012290CLE.html,,300
+44,"Tue, Dec 29, 2020",7:00p,Golden State Warriors,/teams/GSW/2021.html,116,Detroit Pistons,/teams/DET/2021.html,106,/boxscores/202012290DET.html,,0
+45,"Tue, Dec 29, 2020",7:00p,Boston Celtics,/teams/BOS/2021.html,116,Indiana Pacers,/teams/IND/2021.html,111,/boxscores/202012290IND.html,,0
+46,"Tue, Dec 29, 2020",7:00p,Chicago Bulls,/teams/CHI/2021.html,115,Washington Wizards,/teams/WAS/2021.html,107,/boxscores/202012290WAS.html,,0
+47,"Tue, Dec 29, 2020",7:00p,Toronto Raptors,/teams/TOR/2021.html,93,Philadelphia 76ers,/teams/PHI/2021.html,100,/boxscores/202012290PHI.html,,0
+48,"Tue, Dec 29, 2020",7:30p,Milwaukee Bucks,/teams/MIL/2021.html,144,Miami Heat,/teams/MIA/2021.html,97,/boxscores/202012290MIA.html,,0
+49,"Tue, Dec 29, 2020",8:00p,Orlando Magic,/teams/ORL/2021.html,118,Oklahoma City Thunder,/teams/OKC/2021.html,107,/boxscores/202012290OKC.html,,0
+50,"Tue, Dec 29, 2020",10:00p,New Orleans Pelicans,/teams/NOP/2021.html,86,Phoenix Suns,/teams/PHO/2021.html,111,/boxscores/202012290PHO.html,,0
+51,"Tue, Dec 29, 2020",10:00p,Denver Nuggets,/teams/DEN/2021.html,115,Sacramento Kings,/teams/SAC/2021.html,125,/boxscores/202012290SAC.html,,0
+52,"Tue, Dec 29, 2020",10:00p,Minnesota Timberwolves,/teams/MIN/2021.html,101,Los Angeles Clippers,/teams/LAC/2021.html,124,/boxscores/202012290LAC.html,,0
+53,"Wed, Dec 30, 2020",7:30p,Milwaukee Bucks,/teams/MIL/2021.html,108,Miami Heat,/teams/MIA/2021.html,119,/boxscores/202012300MIA.html,,0
+54,"Wed, Dec 30, 2020",7:30p,Atlanta Hawks,/teams/ATL/2021.html,141,Brooklyn Nets,/teams/BRK/2021.html,145,/boxscores/202012300BRK.html,,0
+55,"Wed, Dec 30, 2020",7:30p,Memphis Grizzlies,/teams/MEM/2021.html,107,Boston Celtics,/teams/BOS/2021.html,126,/boxscores/202012300BOS.html,,0
+56,"Wed, Dec 30, 2020",8:30p,Charlotte Hornets,/teams/CHO/2021.html,118,Dallas Mavericks,/teams/DAL/2021.html,99,/boxscores/202012300DAL.html,,0
+57,"Wed, Dec 30, 2020",8:30p,Los Angeles Lakers,/teams/LAL/2021.html,121,San Antonio Spurs,/teams/SAS/2021.html,107,/boxscores/202012300SAS.html,,0
+58,"Wed, Dec 30, 2020",10:00p,Portland Trail Blazers,/teams/POR/2021.html,105,Los Angeles Clippers,/teams/LAC/2021.html,128,/boxscores/202012300LAC.html,,0
+59,"Thu, Dec 31, 2020",3:00p,Cleveland Cavaliers,/teams/CLE/2021.html,99,Indiana Pacers,/teams/IND/2021.html,119,/boxscores/202012310IND.html,,0
+60,"Thu, Dec 31, 2020",5:00p,Chicago Bulls,/teams/CHI/2021.html,133,Washington Wizards,/teams/WAS/2021.html,130,/boxscores/202012310WAS.html,,0
+61,"Thu, Dec 31, 2020",6:30p,Philadelphia 76ers,/teams/PHI/2021.html,116,Orlando Magic,/teams/ORL/2021.html,92,/boxscores/202012310ORL.html,,"3,247"
+62,"Thu, Dec 31, 2020",7:00p,Sacramento Kings,/teams/SAC/2021.html,119,Houston Rockets,/teams/HOU/2021.html,122,/boxscores/202012310HOU.html,,"3,247"
+63,"Thu, Dec 31, 2020",7:30p,New York Knicks,/teams/NYK/2021.html,83,Toronto Raptors,/teams/TOR/2021.html,100,/boxscores/202012310TOR.html,,"3,449"
+64,"Thu, Dec 31, 2020",8:00p,New Orleans Pelicans,/teams/NOP/2021.html,113,Oklahoma City Thunder,/teams/OKC/2021.html,80,/boxscores/202012310OKC.html,,0
+65,"Thu, Dec 31, 2020",9:00p,Phoenix Suns,/teams/PHO/2021.html,106,Utah Jazz,/teams/UTA/2021.html,95,/boxscores/202012310UTA.html,,"1,932"
+66,"Fri, Jan 1, 2021",7:00p,Memphis Grizzlies,/teams/MEM/2021.html,108,Charlotte Hornets,/teams/CHO/2021.html,93,/boxscores/202101010CHO.html,,0
+67,"Fri, Jan 1, 2021",7:00p,Miami Heat,/teams/MIA/2021.html,83,Dallas Mavericks,/teams/DAL/2021.html,93,/boxscores/202101010DAL.html,,0
+68,"Fri, Jan 1, 2021",7:00p,Boston Celtics,/teams/BOS/2021.html,93,Detroit Pistons,/teams/DET/2021.html,96,/boxscores/202101010DET.html,,0
+69,"Fri, Jan 1, 2021",7:30p,Atlanta Hawks,/teams/ATL/2021.html,114,Brooklyn Nets,/teams/BRK/2021.html,96,/boxscores/202101010BRK.html,,0
+70,"Fri, Jan 1, 2021",8:00p,Chicago Bulls,/teams/CHI/2021.html,96,Milwaukee Bucks,/teams/MIL/2021.html,126,/boxscores/202101010MIL.html,,0
+71,"Fri, Jan 1, 2021",8:00p,Washington Wizards,/teams/WAS/2021.html,130,Minnesota Timberwolves,/teams/MIN/2021.html,109,/boxscores/202101010MIN.html,,0
+72,"Fri, Jan 1, 2021",8:00p,Los Angeles Lakers,/teams/LAL/2021.html,109,San Antonio Spurs,/teams/SAS/2021.html,103,/boxscores/202101010SAS.html,,0
+73,"Fri, Jan 1, 2021",9:00p,Phoenix Suns,/teams/PHO/2021.html,106,Denver Nuggets,/teams/DEN/2021.html,103,/boxscores/202101010DEN.html,,0
+74,"Fri, Jan 1, 2021",9:00p,Los Angeles Clippers,/teams/LAC/2021.html,100,Utah Jazz,/teams/UTA/2021.html,106,/boxscores/202101010UTA.html,,"1,932"
+75,"Fri, Jan 1, 2021",10:30p,Portland Trail Blazers,/teams/POR/2021.html,123,Golden State Warriors,/teams/GSW/2021.html,98,/boxscores/202101010GSW.html,,0
+76,"Sat, Jan 2, 2021",5:00p,Sacramento Kings,/teams/SAC/2021.html,94,Houston Rockets,/teams/HOU/2021.html,102,/boxscores/202101020HOU.html,,"3,065"
+77,"Sat, Jan 2, 2021",7:00p,New York Knicks,/teams/NYK/2021.html,106,Indiana Pacers,/teams/IND/2021.html,102,/boxscores/202101020IND.html,,0
+78,"Sat, Jan 2, 2021",7:00p,Oklahoma City Thunder,/teams/OKC/2021.html,108,Orlando Magic,/teams/ORL/2021.html,99,/boxscores/202101020ORL.html,,"3,339"
+79,"Sat, Jan 2, 2021",7:00p,Charlotte Hornets,/teams/CHO/2021.html,112,Philadelphia 76ers,/teams/PHI/2021.html,127,/boxscores/202101020PHI.html,,0
+80,"Sat, Jan 2, 2021",7:30p,Cleveland Cavaliers,/teams/CLE/2021.html,96,Atlanta Hawks,/teams/ATL/2021.html,91,/boxscores/202101020ATL.html,,0
+81,"Sat, Jan 2, 2021",7:30p,Toronto Raptors,/teams/TOR/2021.html,116,New Orleans Pelicans,/teams/NOP/2021.html,120,/boxscores/202101020NOP.html,,750
+82,"Sun, Jan 3, 2021",3:00p,Boston Celtics,/teams/BOS/2021.html,122,Detroit Pistons,/teams/DET/2021.html,120,/boxscores/202101030DET.html,,0
+83,"Sun, Jan 3, 2021",6:00p,Washington Wizards,/teams/WAS/2021.html,123,Brooklyn Nets,/teams/BRK/2021.html,122,/boxscores/202101030BRK.html,,0
+84,"Sun, Jan 3, 2021",6:00p,Los Angeles Lakers,/teams/LAL/2021.html,108,Memphis Grizzlies,/teams/MEM/2021.html,94,/boxscores/202101030MEM.html,,0
+85,"Sun, Jan 3, 2021",7:00p,Denver Nuggets,/teams/DEN/2021.html,124,Minnesota Timberwolves,/teams/MIN/2021.html,109,/boxscores/202101030MIN.html,,0
+86,"Sun, Jan 3, 2021",7:00p,Utah Jazz,/teams/UTA/2021.html,130,San Antonio Spurs,/teams/SAS/2021.html,109,/boxscores/202101030SAS.html,,0
+87,"Sun, Jan 3, 2021",8:00p,Dallas Mavericks,/teams/DAL/2021.html,108,Chicago Bulls,/teams/CHI/2021.html,118,/boxscores/202101030CHI.html,,0
+88,"Sun, Jan 3, 2021",8:00p,Los Angeles Clippers,/teams/LAC/2021.html,112,Phoenix Suns,/teams/PHO/2021.html,107,/boxscores/202101030PHO.html,,0
+89,"Sun, Jan 3, 2021",8:30p,Portland Trail Blazers,/teams/POR/2021.html,122,Golden State Warriors,/teams/GSW/2021.html,137,/boxscores/202101030GSW.html,,0
+90,"Mon, Jan 4, 2021",7:00p,Cleveland Cavaliers,/teams/CLE/2021.html,83,Orlando Magic,/teams/ORL/2021.html,103,/boxscores/202101040ORL.html,,"2,726"
+91,"Mon, Jan 4, 2021",7:00p,Charlotte Hornets,/teams/CHO/2021.html,101,Philadelphia 76ers,/teams/PHI/2021.html,118,/boxscores/202101040PHI.html,,0
+92,"Mon, Jan 4, 2021",7:30p,New York Knicks,/teams/NYK/2021.html,113,Atlanta Hawks,/teams/ATL/2021.html,108,/boxscores/202101040ATL.html,,0
+93,"Mon, Jan 4, 2021",7:30p,Oklahoma City Thunder,/teams/OKC/2021.html,90,Miami Heat,/teams/MIA/2021.html,118,/boxscores/202101040MIA.html,,0
+94,"Mon, Jan 4, 2021",7:30p,Boston Celtics,/teams/BOS/2021.html,126,Toronto Raptors,/teams/TOR/2021.html,114,/boxscores/202101040TOR.html,,"3,740"
+95,"Mon, Jan 4, 2021",8:00p,Dallas Mavericks,/teams/DAL/2021.html,113,Houston Rockets,/teams/HOU/2021.html,100,/boxscores/202101040HOU.html,,"3,070"
+96,"Mon, Jan 4, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,115,Milwaukee Bucks,/teams/MIL/2021.html,125,/boxscores/202101040MIL.html,,0
+97,"Mon, Jan 4, 2021",8:00p,Indiana Pacers,/teams/IND/2021.html,118,New Orleans Pelicans,/teams/NOP/2021.html,116,/boxscores/202101040NOP.html,OT,750
+98,"Mon, Jan 4, 2021",10:00p,Sacramento Kings,/teams/SAC/2021.html,106,Golden State Warriors,/teams/GSW/2021.html,137,/boxscores/202101040GSW.html,,0
+99,"Tue, Jan 5, 2021",7:30p,Utah Jazz,/teams/UTA/2021.html,96,Brooklyn Nets,/teams/BRK/2021.html,130,/boxscores/202101050BRK.html,,0
+100,"Tue, Jan 5, 2021",8:00p,Los Angeles Lakers,/teams/LAL/2021.html,94,Memphis Grizzlies,/teams/MEM/2021.html,92,/boxscores/202101050MEM.html,,0
+101,"Tue, Jan 5, 2021",9:00p,Minnesota Timberwolves,/teams/MIN/2021.html,116,Denver Nuggets,/teams/DEN/2021.html,123,/boxscores/202101050DEN.html,,0
+102,"Tue, Jan 5, 2021",10:00p,San Antonio Spurs,/teams/SAS/2021.html,116,Los Angeles Clippers,/teams/LAC/2021.html,113,/boxscores/202101050LAC.html,,0
+103,"Tue, Jan 5, 2021",10:30p,Chicago Bulls,/teams/CHI/2021.html,111,Portland Trail Blazers,/teams/POR/2021.html,108,/boxscores/202101050POR.html,,0
+104,"Wed, Jan 6, 2021",7:00p,Houston Rockets,/teams/HOU/2021.html,107,Indiana Pacers,/teams/IND/2021.html,114,/boxscores/202101060IND.html,,0
+105,"Wed, Jan 6, 2021",7:00p,Cleveland Cavaliers,/teams/CLE/2021.html,94,Orlando Magic,/teams/ORL/2021.html,105,/boxscores/202101060ORL.html,,"2,948"
+106,"Wed, Jan 6, 2021",7:00p,Washington Wizards,/teams/WAS/2021.html,136,Philadelphia 76ers,/teams/PHI/2021.html,141,/boxscores/202101060PHI.html,,0
+107,"Wed, Jan 6, 2021",7:30p,Charlotte Hornets,/teams/CHO/2021.html,102,Atlanta Hawks,/teams/ATL/2021.html,94,/boxscores/202101060ATL.html,,0
+108,"Wed, Jan 6, 2021",7:30p,Boston Celtics,/teams/BOS/2021.html,107,Miami Heat,/teams/MIA/2021.html,105,/boxscores/202101060MIA.html,,0
+109,"Wed, Jan 6, 2021",7:30p,Utah Jazz,/teams/UTA/2021.html,100,New York Knicks,/teams/NYK/2021.html,112,/boxscores/202101060NYK.html,,0
+110,"Wed, Jan 6, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,115,Milwaukee Bucks,/teams/MIL/2021.html,130,/boxscores/202101060MIL.html,,0
+111,"Wed, Jan 6, 2021",8:00p,Oklahoma City Thunder,/teams/OKC/2021.html,111,New Orleans Pelicans,/teams/NOP/2021.html,110,/boxscores/202101060NOP.html,,750
+112,"Wed, Jan 6, 2021",9:00p,Toronto Raptors,/teams/TOR/2021.html,115,Phoenix Suns,/teams/PHO/2021.html,123,/boxscores/202101060PHO.html,,0
+113,"Wed, Jan 6, 2021",10:00p,Los Angeles Clippers,/teams/LAC/2021.html,108,Golden State Warriors,/teams/GSW/2021.html,101,/boxscores/202101060GSW.html,,0
+114,"Wed, Jan 6, 2021",10:00p,Chicago Bulls,/teams/CHI/2021.html,124,Sacramento Kings,/teams/SAC/2021.html,128,/boxscores/202101060SAC.html,,0
+115,"Thu, Jan 7, 2021",7:30p,Philadelphia 76ers,/teams/PHI/2021.html,109,Brooklyn Nets,/teams/BRK/2021.html,122,/boxscores/202101070BRK.html,,0
+116,"Thu, Jan 7, 2021",8:00p,Cleveland Cavaliers,/teams/CLE/2021.html,94,Memphis Grizzlies,/teams/MEM/2021.html,90,/boxscores/202101070MEM.html,,0
+117,"Thu, Jan 7, 2021",10:00p,Dallas Mavericks,/teams/DAL/2021.html,124,Denver Nuggets,/teams/DEN/2021.html,117,/boxscores/202101070DEN.html,OT,0
+118,"Thu, Jan 7, 2021",10:00p,San Antonio Spurs,/teams/SAS/2021.html,118,Los Angeles Lakers,/teams/LAL/2021.html,109,/boxscores/202101070LAL.html,,0
+119,"Thu, Jan 7, 2021",10:00p,Minnesota Timberwolves,/teams/MIN/2021.html,117,Portland Trail Blazers,/teams/POR/2021.html,135,/boxscores/202101070POR.html,,0
+120,"Fri, Jan 8, 2021",7:00p,Phoenix Suns,/teams/PHO/2021.html,105,Detroit Pistons,/teams/DET/2021.html,110,/boxscores/202101080DET.html,OT,0
+121,"Fri, Jan 8, 2021",7:30p,Washington Wizards,/teams/WAS/2021.html,107,Boston Celtics,/teams/BOS/2021.html,116,/boxscores/202101080BOS.html,,0
+122,"Fri, Jan 8, 2021",7:30p,Charlotte Hornets,/teams/CHO/2021.html,118,New Orleans Pelicans,/teams/NOP/2021.html,110,/boxscores/202101080NOP.html,,750
+123,"Fri, Jan 8, 2021",7:30p,Oklahoma City Thunder,/teams/OKC/2021.html,101,New York Knicks,/teams/NYK/2021.html,89,/boxscores/202101080NYK.html,,0
+124,"Fri, Jan 8, 2021",8:00p,Orlando Magic,/teams/ORL/2021.html,90,Houston Rockets,/teams/HOU/2021.html,132,/boxscores/202101080HOU.html,,"3,039"
+125,"Fri, Jan 8, 2021",8:00p,Brooklyn Nets,/teams/BRK/2021.html,110,Memphis Grizzlies,/teams/MEM/2021.html,115,/boxscores/202101080MEM.html,,0
+126,"Fri, Jan 8, 2021",8:00p,Utah Jazz,/teams/UTA/2021.html,131,Milwaukee Bucks,/teams/MIL/2021.html,118,/boxscores/202101080MIL.html,,0
+127,"Fri, Jan 8, 2021",10:00p,Los Angeles Clippers,/teams/LAC/2021.html,105,Golden State Warriors,/teams/GSW/2021.html,115,/boxscores/202101080GSW.html,,0
+128,"Fri, Jan 8, 2021",10:00p,Chicago Bulls,/teams/CHI/2021.html,115,Los Angeles Lakers,/teams/LAL/2021.html,117,/boxscores/202101080LAL.html,,0
+129,"Fri, Jan 8, 2021",10:00p,Toronto Raptors,/teams/TOR/2021.html,144,Sacramento Kings,/teams/SAC/2021.html,123,/boxscores/202101080SAC.html,,0
+130,"Sat, Jan 9, 2021",3:00p,Denver Nuggets,/teams/DEN/2021.html,115,Philadelphia 76ers,/teams/PHI/2021.html,103,/boxscores/202101090PHI.html,,0
+131,"Sat, Jan 9, 2021",7:00p,Atlanta Hawks,/teams/ATL/2021.html,105,Charlotte Hornets,/teams/CHO/2021.html,113,/boxscores/202101090CHO.html,,0
+132,"Sat, Jan 9, 2021",7:00p,Phoenix Suns,/teams/PHO/2021.html,125,Indiana Pacers,/teams/IND/2021.html,117,/boxscores/202101090IND.html,,0
+133,"Sat, Jan 9, 2021",7:00p,Miami Heat,/teams/MIA/2021.html,128,Washington Wizards,/teams/WAS/2021.html,124,/boxscores/202101090WAS.html,,0
+134,"Sat, Jan 9, 2021",8:00p,Cleveland Cavaliers,/teams/CLE/2021.html,90,Milwaukee Bucks,/teams/MIL/2021.html,100,/boxscores/202101090MIL.html,,0
+135,"Sat, Jan 9, 2021",8:00p,San Antonio Spurs,/teams/SAS/2021.html,125,Minnesota Timberwolves,/teams/MIN/2021.html,122,/boxscores/202101090MIN.html,OT,0
+136,"Sat, Jan 9, 2021",8:30p,Orlando Magic,/teams/ORL/2021.html,98,Dallas Mavericks,/teams/DAL/2021.html,112,/boxscores/202101090DAL.html,,0
+137,"Sat, Jan 9, 2021",10:00p,Portland Trail Blazers,/teams/POR/2021.html,125,Sacramento Kings,/teams/SAC/2021.html,99,/boxscores/202101090SAC.html,,0
+138,"Sun, Jan 10, 2021",3:00p,Utah Jazz,/teams/UTA/2021.html,96,Detroit Pistons,/teams/DET/2021.html,86,/boxscores/202101100DET.html,,0
+139,"Sun, Jan 10, 2021",4:00p,Chicago Bulls,/teams/CHI/2021.html,127,Los Angeles Clippers,/teams/LAC/2021.html,130,/boxscores/202101100LAC.html,,0
+140,"Sun, Jan 10, 2021",6:00p,Oklahoma City Thunder,/teams/OKC/2021.html,129,Brooklyn Nets,/teams/BRK/2021.html,116,/boxscores/202101100BRK.html,,0
+141,"Sun, Jan 10, 2021",6:00p,Denver Nuggets,/teams/DEN/2021.html,114,New York Knicks,/teams/NYK/2021.html,89,/boxscores/202101100NYK.html,,0
+142,"Sun, Jan 10, 2021",7:00p,Los Angeles Lakers,/teams/LAL/2021.html,120,Houston Rockets,/teams/HOU/2021.html,102,/boxscores/202101100HOU.html,,"3,327"
+143,"Sun, Jan 10, 2021",8:00p,San Antonio Spurs,/teams/SAS/2021.html,88,Minnesota Timberwolves,/teams/MIN/2021.html,96,/boxscores/202101100MIN.html,,0
+144,"Sun, Jan 10, 2021",8:30p,Toronto Raptors,/teams/TOR/2021.html,105,Golden State Warriors,/teams/GSW/2021.html,106,/boxscores/202101100GSW.html,,0
+145,"Mon, Jan 11, 2021",7:00p,New York Knicks,/teams/NYK/2021.html,88,Charlotte Hornets,/teams/CHO/2021.html,109,/boxscores/202101110CHO.html,,0
+146,"Mon, Jan 11, 2021",7:00p,Memphis Grizzlies,/teams/MEM/2021.html,101,Cleveland Cavaliers,/teams/CLE/2021.html,91,/boxscores/202101110CLE.html,,"1,944"
+147,"Mon, Jan 11, 2021",7:00p,Milwaukee Bucks,/teams/MIL/2021.html,121,Orlando Magic,/teams/ORL/2021.html,99,/boxscores/202101110ORL.html,,"3,248"
+148,"Mon, Jan 11, 2021",7:00p,Phoenix Suns,/teams/PHO/2021.html,107,Washington Wizards,/teams/WAS/2021.html,128,/boxscores/202101110WAS.html,,0
+149,"Mon, Jan 11, 2021",7:30p,Philadelphia 76ers,/teams/PHI/2021.html,94,Atlanta Hawks,/teams/ATL/2021.html,112,/boxscores/202101110ATL.html,,0
+150,"Mon, Jan 11, 2021",10:00p,Toronto Raptors,/teams/TOR/2021.html,111,Portland Trail Blazers,/teams/POR/2021.html,112,/boxscores/202101110POR.html,,0
+151,"Mon, Jan 11, 2021",10:00p,Indiana Pacers,/teams/IND/2021.html,122,Sacramento Kings,/teams/SAC/2021.html,127,/boxscores/202101110SAC.html,,0
+152,"Tue, Jan 12, 2021",7:00p,Miami Heat,/teams/MIA/2021.html,134,Philadelphia 76ers,/teams/PHI/2021.html,137,/boxscores/202101120PHI.html,OT,0
+153,"Tue, Jan 12, 2021",7:30p,Denver Nuggets,/teams/DEN/2021.html,116,Brooklyn Nets,/teams/BRK/2021.html,122,/boxscores/202101120BRK.html,,0
+154,"Tue, Jan 12, 2021",7:30p,Utah Jazz,/teams/UTA/2021.html,117,Cleveland Cavaliers,/teams/CLE/2021.html,87,/boxscores/202101120CLE.html,,"1,944"
+155,"Tue, Jan 12, 2021",8:00p,Los Angeles Lakers,/teams/LAL/2021.html,117,Houston Rockets,/teams/HOU/2021.html,100,/boxscores/202101120HOU.html,,"3,221"
+156,"Tue, Jan 12, 2021",8:00p,San Antonio Spurs,/teams/SAS/2021.html,112,Oklahoma City Thunder,/teams/OKC/2021.html,102,/boxscores/202101120OKC.html,,0
+157,"Tue, Jan 12, 2021",10:30p,Indiana Pacers,/teams/IND/2021.html,104,Golden State Warriors,/teams/GSW/2021.html,95,/boxscores/202101120GSW.html,,0
+158,"Wed, Jan 13, 2021",7:00p,Dallas Mavericks,/teams/DAL/2021.html,104,Charlotte Hornets,/teams/CHO/2021.html,93,/boxscores/202101130CHO.html,,0
+159,"Wed, Jan 13, 2021",7:00p,Milwaukee Bucks,/teams/MIL/2021.html,110,Detroit Pistons,/teams/DET/2021.html,101,/boxscores/202101130DET.html,,0
+160,"Wed, Jan 13, 2021",7:30p,Brooklyn Nets,/teams/BRK/2021.html,116,New York Knicks,/teams/NYK/2021.html,109,/boxscores/202101130NYK.html,,0
+161,"Wed, Jan 13, 2021",8:00p,Memphis Grizzlies,/teams/MEM/2021.html,118,Minnesota Timberwolves,/teams/MIN/2021.html,107,/boxscores/202101130MIN.html,,0
+162,"Wed, Jan 13, 2021",8:00p,Los Angeles Lakers,/teams/LAL/2021.html,128,Oklahoma City Thunder,/teams/OKC/2021.html,99,/boxscores/202101130OKC.html,,0
+163,"Wed, Jan 13, 2021",10:00p,New Orleans Pelicans,/teams/NOP/2021.html,106,Los Angeles Clippers,/teams/LAC/2021.html,111,/boxscores/202101130LAC.html,,0
+164,"Wed, Jan 13, 2021",10:00p,Portland Trail Blazers,/teams/POR/2021.html,132,Sacramento Kings,/teams/SAC/2021.html,126,/boxscores/202101130SAC.html,,0
+165,"Thu, Jan 14, 2021",7:00p,Miami Heat,/teams/MIA/2021.html,108,Philadelphia 76ers,/teams/PHI/2021.html,125,/boxscores/202101140PHI.html,,0
+166,"Thu, Jan 14, 2021",7:30p,Houston Rockets,/teams/HOU/2021.html,109,San Antonio Spurs,/teams/SAS/2021.html,105,/boxscores/202101140SAS.html,,0
+167,"Thu, Jan 14, 2021",7:30p,Charlotte Hornets,/teams/CHO/2021.html,108,Toronto Raptors,/teams/TOR/2021.html,111,/boxscores/202101140TOR.html,,0
+168,"Thu, Jan 14, 2021",10:00p,Golden State Warriors,/teams/GSW/2021.html,104,Denver Nuggets,/teams/DEN/2021.html,114,/boxscores/202101140DEN.html,,0
+169,"Thu, Jan 14, 2021",10:00p,Indiana Pacers,/teams/IND/2021.html,111,Portland Trail Blazers,/teams/POR/2021.html,87,/boxscores/202101140POR.html,,0
+170,"Fri, Jan 15, 2021",7:30p,Orlando Magic,/teams/ORL/2021.html,97,Boston Celtics,/teams/BOS/2021.html,124,/boxscores/202101150BOS.html,,0
+171,"Fri, Jan 15, 2021",7:30p,New York Knicks,/teams/NYK/2021.html,103,Cleveland Cavaliers,/teams/CLE/2021.html,106,/boxscores/202101150CLE.html,,"1,944"
+172,"Fri, Jan 15, 2021",7:30p,Dallas Mavericks,/teams/DAL/2021.html,109,Milwaukee Bucks,/teams/MIL/2021.html,112,/boxscores/202101150MIL.html,,0
+173,"Fri, Jan 15, 2021",8:00p,Chicago Bulls,/teams/CHI/2021.html,125,Oklahoma City Thunder,/teams/OKC/2021.html,127,/boxscores/202101150OKC.html,OT,0
+174,"Fri, Jan 15, 2021",9:00p,Atlanta Hawks,/teams/ATL/2021.html,92,Utah Jazz,/teams/UTA/2021.html,116,/boxscores/202101150UTA.html,,"1,932"
+175,"Fri, Jan 15, 2021",10:00p,New Orleans Pelicans,/teams/NOP/2021.html,95,Los Angeles Lakers,/teams/LAL/2021.html,112,/boxscores/202101150LAL.html,,0
+176,"Fri, Jan 15, 2021",10:00p,Los Angeles Clippers,/teams/LAC/2021.html,138,Sacramento Kings,/teams/SAC/2021.html,100,/boxscores/202101150SAC.html,,0
+177,"Sat, Jan 16, 2021",5:00p,Houston Rockets,/teams/HOU/2021.html,91,San Antonio Spurs,/teams/SAS/2021.html,103,/boxscores/202101160SAS.html,,0
+178,"Sat, Jan 16, 2021",6:00p,Orlando Magic,/teams/ORL/2021.html,115,Brooklyn Nets,/teams/BRK/2021.html,122,/boxscores/202101160BRK.html,,0
+179,"Sat, Jan 16, 2021",7:30p,Charlotte Hornets,/teams/CHO/2021.html,113,Toronto Raptors,/teams/TOR/2021.html,116,/boxscores/202101160TOR.html,,0
+180,"Sat, Jan 16, 2021",8:00p,Philadelphia 76ers,/teams/PHI/2021.html,104,Memphis Grizzlies,/teams/MEM/2021.html,106,/boxscores/202101160MEM.html,,206
+181,"Sat, Jan 16, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,120,Miami Heat,/teams/MIA/2021.html,100,/boxscores/202101160MIA.html,,0
+182,"Sat, Jan 16, 2021",10:00p,Atlanta Hawks,/teams/ATL/2021.html,106,Portland Trail Blazers,/teams/POR/2021.html,112,/boxscores/202101160POR.html,,0
+183,"Sun, Jan 17, 2021",1:00p,New York Knicks,/teams/NYK/2021.html,105,Boston Celtics,/teams/BOS/2021.html,75,/boxscores/202101170BOS.html,,0
+184,"Sun, Jan 17, 2021",3:00p,Chicago Bulls,/teams/CHI/2021.html,117,Dallas Mavericks,/teams/DAL/2021.html,101,/boxscores/202101170DAL.html,,0
+185,"Sun, Jan 17, 2021",8:00p,Utah Jazz,/teams/UTA/2021.html,109,Denver Nuggets,/teams/DEN/2021.html,105,/boxscores/202101170DEN.html,,0
+186,"Sun, Jan 17, 2021",9:00p,New Orleans Pelicans,/teams/NOP/2021.html,128,Sacramento Kings,/teams/SAC/2021.html,123,/boxscores/202101170SAC.html,,0
+187,"Sun, Jan 17, 2021",10:00p,Indiana Pacers,/teams/IND/2021.html,96,Los Angeles Clippers,/teams/LAC/2021.html,129,/boxscores/202101170LAC.html,,0
+188,"Mon, Jan 18, 2021",12:00p,Orlando Magic,/teams/ORL/2021.html,84,New York Knicks,/teams/NYK/2021.html,91,/boxscores/202101180NYK.html,,0
+189,"Mon, Jan 18, 2021",2:30p,Minnesota Timberwolves,/teams/MIN/2021.html,97,Atlanta Hawks,/teams/ATL/2021.html,108,/boxscores/202101180ATL.html,,0
+190,"Mon, Jan 18, 2021",3:00p,San Antonio Spurs,/teams/SAS/2021.html,125,Portland Trail Blazers,/teams/POR/2021.html,104,/boxscores/202101180POR.html,,0
+191,"Mon, Jan 18, 2021",5:00p,Phoenix Suns,/teams/PHO/2021.html,104,Memphis Grizzlies,/teams/MEM/2021.html,108,/boxscores/202101180MEM.html,,204
+192,"Mon, Jan 18, 2021",7:30p,Milwaukee Bucks,/teams/MIL/2021.html,123,Brooklyn Nets,/teams/BRK/2021.html,125,/boxscores/202101180BRK.html,,0
+193,"Mon, Jan 18, 2021",7:30p,Dallas Mavericks,/teams/DAL/2021.html,93,Toronto Raptors,/teams/TOR/2021.html,116,/boxscores/202101180TOR.html,,0
+194,"Mon, Jan 18, 2021",8:00p,Houston Rockets,/teams/HOU/2021.html,120,Chicago Bulls,/teams/CHI/2021.html,125,/boxscores/202101180CHI.html,,0
+195,"Mon, Jan 18, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,107,Miami Heat,/teams/MIA/2021.html,113,/boxscores/202101180MIA.html,,0
+196,"Mon, Jan 18, 2021",10:00p,Golden State Warriors,/teams/GSW/2021.html,115,Los Angeles Lakers,/teams/LAL/2021.html,113,/boxscores/202101180LAL.html,,0
+197,"Tue, Jan 19, 2021",9:00p,Oklahoma City Thunder,/teams/OKC/2021.html,101,Denver Nuggets,/teams/DEN/2021.html,119,/boxscores/202101190DEN.html,,0
+198,"Tue, Jan 19, 2021",9:00p,New Orleans Pelicans,/teams/NOP/2021.html,102,Utah Jazz,/teams/UTA/2021.html,118,/boxscores/202101190UTA.html,,"1,932"
+199,"Wed, Jan 20, 2021",7:00p,Brooklyn Nets,/teams/BRK/2021.html,135,Cleveland Cavaliers,/teams/CLE/2021.html,147,/boxscores/202101200CLE.html,2OT,"1,944"
+200,"Wed, Jan 20, 2021",7:00p,Dallas Mavericks,/teams/DAL/2021.html,124,Indiana Pacers,/teams/IND/2021.html,112,/boxscores/202101200IND.html,,0
+201,"Wed, Jan 20, 2021",7:00p,Boston Celtics,/teams/BOS/2021.html,109,Philadelphia 76ers,/teams/PHI/2021.html,117,/boxscores/202101200PHI.html,,0
+202,"Wed, Jan 20, 2021",7:30p,Detroit Pistons,/teams/DET/2021.html,115,Atlanta Hawks,/teams/ATL/2021.html,123,/boxscores/202101200ATL.html,OT,0
+203,"Wed, Jan 20, 2021",7:30p,Miami Heat,/teams/MIA/2021.html,111,Toronto Raptors,/teams/TOR/2021.html,102,/boxscores/202101200TOR.html,,0
+204,"Wed, Jan 20, 2021",8:00p,Orlando Magic,/teams/ORL/2021.html,97,Minnesota Timberwolves,/teams/MIN/2021.html,96,/boxscores/202101200MIN.html,,0
+205,"Wed, Jan 20, 2021",9:30p,Phoenix Suns,/teams/PHO/2021.html,109,Houston Rockets,/teams/HOU/2021.html,103,/boxscores/202101200HOU.html,,"3,022"
+206,"Wed, Jan 20, 2021",10:00p,San Antonio Spurs,/teams/SAS/2021.html,99,Golden State Warriors,/teams/GSW/2021.html,121,/boxscores/202101200GSW.html,,0
+207,"Wed, Jan 20, 2021",10:00p,Sacramento Kings,/teams/SAC/2021.html,96,Los Angeles Clippers,/teams/LAC/2021.html,115,/boxscores/202101200LAC.html,,0
+208,"Thu, Jan 21, 2021",7:30p,Los Angeles Lakers,/teams/LAL/2021.html,113,Milwaukee Bucks,/teams/MIL/2021.html,106,/boxscores/202101210MIL.html,,0
+209,"Thu, Jan 21, 2021",10:00p,New York Knicks,/teams/NYK/2021.html,119,Golden State Warriors,/teams/GSW/2021.html,104,/boxscores/202101210GSW.html,,0
+210,"Thu, Jan 21, 2021",10:00p,New Orleans Pelicans,/teams/NOP/2021.html,118,Utah Jazz,/teams/UTA/2021.html,129,/boxscores/202101210UTA.html,,"1,932"
+211,"Fri, Jan 22, 2021",7:00p,Chicago Bulls,/teams/CHI/2021.html,123,Charlotte Hornets,/teams/CHO/2021.html,110,/boxscores/202101220CHO.html,,0
+212,"Fri, Jan 22, 2021",7:00p,Houston Rockets,/teams/HOU/2021.html,103,Detroit Pistons,/teams/DET/2021.html,102,/boxscores/202101220DET.html,,0
+213,"Fri, Jan 22, 2021",7:00p,Orlando Magic,/teams/ORL/2021.html,118,Indiana Pacers,/teams/IND/2021.html,120,/boxscores/202101220IND.html,OT,0
+214,"Fri, Jan 22, 2021",7:30p,Brooklyn Nets,/teams/BRK/2021.html,113,Cleveland Cavaliers,/teams/CLE/2021.html,125,/boxscores/202101220CLE.html,,"1,944"
+215,"Fri, Jan 22, 2021",7:30p,Boston Celtics,/teams/BOS/2021.html,110,Philadelphia 76ers,/teams/PHI/2021.html,122,/boxscores/202101220PHI.html,,0
+216,"Fri, Jan 22, 2021",7:30p,Miami Heat,/teams/MIA/2021.html,81,Toronto Raptors,/teams/TOR/2021.html,101,/boxscores/202101220TOR.html,,0
+217,"Fri, Jan 22, 2021",8:00p,Atlanta Hawks,/teams/ATL/2021.html,116,Minnesota Timberwolves,/teams/MIN/2021.html,98,/boxscores/202101220MIN.html,,0
+218,"Fri, Jan 22, 2021",8:30p,Dallas Mavericks,/teams/DAL/2021.html,122,San Antonio Spurs,/teams/SAS/2021.html,117,/boxscores/202101220SAS.html,,0
+219,"Fri, Jan 22, 2021",10:00p,Oklahoma City Thunder,/teams/OKC/2021.html,106,Los Angeles Clippers,/teams/LAC/2021.html,120,/boxscores/202101220LAC.html,,0
+220,"Fri, Jan 22, 2021",10:00p,Denver Nuggets,/teams/DEN/2021.html,130,Phoenix Suns,/teams/PHO/2021.html,126,/boxscores/202101220PHO.html,OT,0
+221,"Fri, Jan 22, 2021",10:00p,New York Knicks,/teams/NYK/2021.html,94,Sacramento Kings,/teams/SAC/2021.html,103,/boxscores/202101220SAC.html,,0
+222,"Sat, Jan 23, 2021",8:00p,Miami Heat,/teams/MIA/2021.html,124,Brooklyn Nets,/teams/BRK/2021.html,128,/boxscores/202101230BRK.html,,0
+223,"Sat, Jan 23, 2021",8:00p,Philadelphia 76ers,/teams/PHI/2021.html,114,Detroit Pistons,/teams/DET/2021.html,110,/boxscores/202101230DET.html,,0
+224,"Sat, Jan 23, 2021",8:00p,New Orleans Pelicans,/teams/NOP/2021.html,110,Minnesota Timberwolves,/teams/MIN/2021.html,120,/boxscores/202101230MIN.html,,0
+225,"Sat, Jan 23, 2021",9:00p,Los Angeles Lakers,/teams/LAL/2021.html,101,Chicago Bulls,/teams/CHI/2021.html,90,/boxscores/202101230CHI.html,,0
+226,"Sat, Jan 23, 2021",9:00p,Houston Rockets,/teams/HOU/2021.html,133,Dallas Mavericks,/teams/DAL/2021.html,108,/boxscores/202101230DAL.html,,0
+227,"Sat, Jan 23, 2021",9:00p,Denver Nuggets,/teams/DEN/2021.html,120,Phoenix Suns,/teams/PHO/2021.html,112,/boxscores/202101230PHO.html,2OT,0
+228,"Sat, Jan 23, 2021",9:00p,Golden State Warriors,/teams/GSW/2021.html,108,Utah Jazz,/teams/UTA/2021.html,127,/boxscores/202101230UTA.html,,"1,932"
+229,"Sun, Jan 24, 2021",1:00p,Toronto Raptors,/teams/TOR/2021.html,107,Indiana Pacers,/teams/IND/2021.html,102,/boxscores/202101240IND.html,,0
+230,"Sun, Jan 24, 2021",4:00p,Oklahoma City Thunder,/teams/OKC/2021.html,100,Los Angeles Clippers,/teams/LAC/2021.html,108,/boxscores/202101240LAC.html,,0
+231,"Sun, Jan 24, 2021",7:00p,Cleveland Cavaliers,/teams/CLE/2021.html,103,Boston Celtics,/teams/BOS/2021.html,141,/boxscores/202101240BOS.html,,0
+232,"Sun, Jan 24, 2021",7:00p,Charlotte Hornets,/teams/CHO/2021.html,107,Orlando Magic,/teams/ORL/2021.html,104,/boxscores/202101240ORL.html,,"3,507"
+233,"Sun, Jan 24, 2021",8:00p,Atlanta Hawks,/teams/ATL/2021.html,115,Milwaukee Bucks,/teams/MIL/2021.html,129,/boxscores/202101240MIL.html,,0
+234,"Sun, Jan 24, 2021",8:00p,Washington Wizards,/teams/WAS/2021.html,101,San Antonio Spurs,/teams/SAS/2021.html,121,/boxscores/202101240SAS.html,,0
+235,"Sun, Jan 24, 2021",10:00p,New York Knicks,/teams/NYK/2021.html,113,Portland Trail Blazers,/teams/POR/2021.html,116,/boxscores/202101240POR.html,,0
+236,"Mon, Jan 25, 2021",7:00p,Philadelphia 76ers,/teams/PHI/2021.html,104,Detroit Pistons,/teams/DET/2021.html,119,/boxscores/202101250DET.html,,0
+237,"Mon, Jan 25, 2021",7:00p,Toronto Raptors,/teams/TOR/2021.html,114,Indiana Pacers,/teams/IND/2021.html,129,/boxscores/202101250IND.html,,0
+238,"Mon, Jan 25, 2021",7:00p,Charlotte Hornets,/teams/CHO/2021.html,108,Orlando Magic,/teams/ORL/2021.html,117,/boxscores/202101250ORL.html,,"3,167"
+239,"Mon, Jan 25, 2021",7:30p,Miami Heat,/teams/MIA/2021.html,85,Brooklyn Nets,/teams/BRK/2021.html,98,/boxscores/202101250BRK.html,,0
+240,"Mon, Jan 25, 2021",8:00p,Los Angeles Lakers,/teams/LAL/2021.html,115,Cleveland Cavaliers,/teams/CLE/2021.html,108,/boxscores/202101250CLE.html,,0
+241,"Mon, Jan 25, 2021",8:30p,Denver Nuggets,/teams/DEN/2021.html,117,Dallas Mavericks,/teams/DAL/2021.html,113,/boxscores/202101250DAL.html,,0
+242,"Mon, Jan 25, 2021",9:00p,Boston Celtics,/teams/BOS/2021.html,119,Chicago Bulls,/teams/CHI/2021.html,103,/boxscores/202101250CHI.html,,0
+243,"Mon, Jan 25, 2021",10:00p,Minnesota Timberwolves,/teams/MIN/2021.html,108,Golden State Warriors,/teams/GSW/2021.html,130,/boxscores/202101250GSW.html,,0
+244,"Mon, Jan 25, 2021",10:00p,Oklahoma City Thunder,/teams/OKC/2021.html,125,Portland Trail Blazers,/teams/POR/2021.html,122,/boxscores/202101250POR.html,,0
+245,"Tue, Jan 26, 2021",7:30p,Los Angeles Clippers,/teams/LAC/2021.html,99,Atlanta Hawks,/teams/ATL/2021.html,108,/boxscores/202101260ATL.html,,"1,180"
+246,"Tue, Jan 26, 2021",8:00p,Washington Wizards,/teams/WAS/2021.html,88,Houston Rockets,/teams/HOU/2021.html,107,/boxscores/202101260HOU.html,,"2,996"
+247,"Tue, Jan 26, 2021",9:00p,New York Knicks,/teams/NYK/2021.html,94,Utah Jazz,/teams/UTA/2021.html,108,/boxscores/202101260UTA.html,,"1,932"
+248,"Wed, Jan 27, 2021",7:00p,Indiana Pacers,/teams/IND/2021.html,116,Charlotte Hornets,/teams/CHO/2021.html,106,/boxscores/202101270CHO.html,,0
+249,"Wed, Jan 27, 2021",7:00p,Detroit Pistons,/teams/DET/2021.html,107,Cleveland Cavaliers,/teams/CLE/2021.html,122,/boxscores/202101270CLE.html,,"1,944"
+250,"Wed, Jan 27, 2021",7:00p,Sacramento Kings,/teams/SAC/2021.html,121,Orlando Magic,/teams/ORL/2021.html,107,/boxscores/202101270ORL.html,,"3,216"
+251,"Wed, Jan 27, 2021",7:30p,Brooklyn Nets,/teams/BRK/2021.html,132,Atlanta Hawks,/teams/ATL/2021.html,128,/boxscores/202101270ATL.html,OT,"1,008"
+252,"Wed, Jan 27, 2021",7:30p,Denver Nuggets,/teams/DEN/2021.html,109,Miami Heat,/teams/MIA/2021.html,82,/boxscores/202101270MIA.html,,0
+253,"Wed, Jan 27, 2021",7:30p,Los Angeles Lakers,/teams/LAL/2021.html,106,Philadelphia 76ers,/teams/PHI/2021.html,107,/boxscores/202101270PHI.html,,0
+254,"Wed, Jan 27, 2021",7:30p,Milwaukee Bucks,/teams/MIL/2021.html,115,Toronto Raptors,/teams/TOR/2021.html,108,/boxscores/202101270TOR.html,,0
+255,"Wed, Jan 27, 2021",8:30p,Boston Celtics,/teams/BOS/2021.html,106,San Antonio Spurs,/teams/SAS/2021.html,110,/boxscores/202101270SAS.html,,0
+256,"Wed, Jan 27, 2021",9:00p,Washington Wizards,/teams/WAS/2021.html,106,New Orleans Pelicans,/teams/NOP/2021.html,124,/boxscores/202101270NOP.html,,750
+257,"Wed, Jan 27, 2021",9:00p,Oklahoma City Thunder,/teams/OKC/2021.html,102,Phoenix Suns,/teams/PHO/2021.html,97,/boxscores/202101270PHO.html,,0
+258,"Wed, Jan 27, 2021",9:00p,Dallas Mavericks,/teams/DAL/2021.html,104,Utah Jazz,/teams/UTA/2021.html,116,/boxscores/202101270UTA.html,,0
+259,"Wed, Jan 27, 2021",10:00p,Minnesota Timberwolves,/teams/MIN/2021.html,111,Golden State Warriors,/teams/GSW/2021.html,123,/boxscores/202101270GSW.html,,0
+260,"Thu, Jan 28, 2021",7:30p,Portland Trail Blazers,/teams/POR/2021.html,101,Houston Rockets,/teams/HOU/2021.html,104,/boxscores/202101280HOU.html,,"3,154"
+261,"Thu, Jan 28, 2021",8:00p,Los Angeles Lakers,/teams/LAL/2021.html,92,Detroit Pistons,/teams/DET/2021.html,107,/boxscores/202101280DET.html,,0
+262,"Thu, Jan 28, 2021",8:00p,Los Angeles Clippers,/teams/LAC/2021.html,109,Miami Heat,/teams/MIA/2021.html,105,/boxscores/202101280MIA.html,,0
+263,"Thu, Jan 28, 2021",10:00p,Golden State Warriors,/teams/GSW/2021.html,93,Phoenix Suns,/teams/PHO/2021.html,114,/boxscores/202101280PHO.html,,0
+264,"Fri, Jan 29, 2021",7:00p,Indiana Pacers,/teams/IND/2021.html,105,Charlotte Hornets,/teams/CHO/2021.html,108,/boxscores/202101290CHO.html,,0
+265,"Fri, Jan 29, 2021",7:00p,Atlanta Hawks,/teams/ATL/2021.html,116,Washington Wizards,/teams/WAS/2021.html,100,/boxscores/202101290WAS.html,,0
+266,"Fri, Jan 29, 2021",7:30p,Milwaukee Bucks,/teams/MIL/2021.html,126,New Orleans Pelicans,/teams/NOP/2021.html,131,/boxscores/202101290NOP.html,,"1,440"
+267,"Fri, Jan 29, 2021",7:30p,Cleveland Cavaliers,/teams/CLE/2021.html,81,New York Knicks,/teams/NYK/2021.html,102,/boxscores/202101290NYK.html,,0
+268,"Fri, Jan 29, 2021",7:30p,Sacramento Kings,/teams/SAC/2021.html,126,Toronto Raptors,/teams/TOR/2021.html,124,/boxscores/202101290TOR.html,,0
+269,"Fri, Jan 29, 2021",8:00p,Philadelphia 76ers,/teams/PHI/2021.html,118,Minnesota Timberwolves,/teams/MIN/2021.html,94,/boxscores/202101290MIN.html,,0
+270,"Fri, Jan 29, 2021",8:00p,Brooklyn Nets,/teams/BRK/2021.html,147,Oklahoma City Thunder,/teams/OKC/2021.html,125,/boxscores/202101290OKC.html,,0
+271,"Fri, Jan 29, 2021",8:00p,Los Angeles Clippers,/teams/LAC/2021.html,116,Orlando Magic,/teams/ORL/2021.html,90,/boxscores/202101290ORL.html,,"3,763"
+272,"Fri, Jan 29, 2021",8:30p,Denver Nuggets,/teams/DEN/2021.html,109,San Antonio Spurs,/teams/SAS/2021.html,119,/boxscores/202101290SAS.html,,0
+273,"Fri, Jan 29, 2021",10:00p,Dallas Mavericks,/teams/DAL/2021.html,101,Utah Jazz,/teams/UTA/2021.html,120,/boxscores/202101290UTA.html,,"1,932"
+274,"Sat, Jan 30, 2021",8:00p,Portland Trail Blazers,/teams/POR/2021.html,123,Chicago Bulls,/teams/CHI/2021.html,122,/boxscores/202101300CHI.html,,0
+275,"Sat, Jan 30, 2021",8:00p,Milwaukee Bucks,/teams/MIL/2021.html,114,Charlotte Hornets,/teams/CHO/2021.html,126,/boxscores/202101300CHO.html,,0
+276,"Sat, Jan 30, 2021",8:00p,Sacramento Kings,/teams/SAC/2021.html,104,Miami Heat,/teams/MIA/2021.html,105,/boxscores/202101300MIA.html,,0
+277,"Sat, Jan 30, 2021",8:00p,Houston Rockets,/teams/HOU/2021.html,126,New Orleans Pelicans,/teams/NOP/2021.html,112,/boxscores/202101300NOP.html,,"1,440"
+278,"Sat, Jan 30, 2021",8:30p,Los Angeles Lakers,/teams/LAL/2021.html,96,Boston Celtics,/teams/BOS/2021.html,95,/boxscores/202101300BOS.html,,0
+279,"Sat, Jan 30, 2021",8:30p,Memphis Grizzlies,/teams/MEM/2021.html,129,San Antonio Spurs,/teams/SAS/2021.html,112,/boxscores/202101300SAS.html,,0
+280,"Sat, Jan 30, 2021",9:00p,Phoenix Suns,/teams/PHO/2021.html,111,Dallas Mavericks,/teams/DAL/2021.html,105,/boxscores/202101300DAL.html,,0
+281,"Sat, Jan 30, 2021",10:00p,Detroit Pistons,/teams/DET/2021.html,91,Golden State Warriors,/teams/GSW/2021.html,118,/boxscores/202101300GSW.html,,0
+282,"Sun, Jan 31, 2021",1:00p,Los Angeles Clippers,/teams/LAC/2021.html,129,New York Knicks,/teams/NYK/2021.html,115,/boxscores/202101310NYK.html,,0
+283,"Sun, Jan 31, 2021",3:30p,Utah Jazz,/teams/UTA/2021.html,117,Denver Nuggets,/teams/DEN/2021.html,128,/boxscores/202101310DEN.html,,0
+284,"Sun, Jan 31, 2021",7:00p,Philadelphia 76ers,/teams/PHI/2021.html,119,Indiana Pacers,/teams/IND/2021.html,110,/boxscores/202101310IND.html,,0
+285,"Sun, Jan 31, 2021",7:00p,Orlando Magic,/teams/ORL/2021.html,102,Toronto Raptors,/teams/TOR/2021.html,115,/boxscores/202101310TOR.html,,0
+286,"Sun, Jan 31, 2021",7:00p,Brooklyn Nets,/teams/BRK/2021.html,146,Washington Wizards,/teams/WAS/2021.html,149,/boxscores/202101310WAS.html,,0
+287,"Sun, Jan 31, 2021",8:00p,Cleveland Cavaliers,/teams/CLE/2021.html,104,Minnesota Timberwolves,/teams/MIN/2021.html,109,/boxscores/202101310MIN.html,,0
+288,"Mon, Feb 1, 2021",7:30p,Los Angeles Lakers,/teams/LAL/2021.html,107,Atlanta Hawks,/teams/ATL/2021.html,99,/boxscores/202102010ATL.html,,"1,341"
+289,"Mon, Feb 1, 2021",7:30p,Charlotte Hornets,/teams/CHO/2021.html,129,Miami Heat,/teams/MIA/2021.html,121,/boxscores/202102010MIA.html,OT,0
+290,"Mon, Feb 1, 2021",8:00p,New York Knicks,/teams/NYK/2021.html,102,Chicago Bulls,/teams/CHI/2021.html,110,/boxscores/202102010CHI.html,,0
+291,"Mon, Feb 1, 2021",8:00p,Minnesota Timberwolves,/teams/MIN/2021.html,98,Cleveland Cavaliers,/teams/CLE/2021.html,100,/boxscores/202102010CLE.html,,0
+292,"Mon, Feb 1, 2021",8:00p,Portland Trail Blazers,/teams/POR/2021.html,106,Milwaukee Bucks,/teams/MIL/2021.html,134,/boxscores/202102010MIL.html,,0
+293,"Mon, Feb 1, 2021",8:00p,Sacramento Kings,/teams/SAC/2021.html,118,New Orleans Pelicans,/teams/NOP/2021.html,109,/boxscores/202102010NOP.html,,"1,440"
+294,"Mon, Feb 1, 2021",8:00p,Houston Rockets,/teams/HOU/2021.html,136,Oklahoma City Thunder,/teams/OKC/2021.html,106,/boxscores/202102010OKC.html,,0
+295,"Mon, Feb 1, 2021",8:30p,Phoenix Suns,/teams/PHO/2021.html,109,Dallas Mavericks,/teams/DAL/2021.html,108,/boxscores/202102010DAL.html,,0
+296,"Mon, Feb 1, 2021",8:30p,Memphis Grizzlies,/teams/MEM/2021.html,133,San Antonio Spurs,/teams/SAS/2021.html,102,/boxscores/202102010SAS.html,,0
+297,"Tue, Feb 2, 2021",7:00p,Toronto Raptors,/teams/TOR/2021.html,123,Orlando Magic,/teams/ORL/2021.html,108,/boxscores/202102020ORL.html,,"3,211"
+298,"Tue, Feb 2, 2021",7:30p,Los Angeles Clippers,/teams/LAC/2021.html,120,Brooklyn Nets,/teams/BRK/2021.html,124,/boxscores/202102020BRK.html,,0
+299,"Tue, Feb 2, 2021",8:00p,Memphis Grizzlies,/teams/MEM/2021.html,116,Indiana Pacers,/teams/IND/2021.html,134,/boxscores/202102020IND.html,,0
+300,"Tue, Feb 2, 2021",8:00p,Portland Trail Blazers,/teams/POR/2021.html,132,Washington Wizards,/teams/WAS/2021.html,121,/boxscores/202102020WAS.html,,0
+301,"Tue, Feb 2, 2021",10:00p,Boston Celtics,/teams/BOS/2021.html,111,Golden State Warriors,/teams/GSW/2021.html,107,/boxscores/202102020GSW.html,,0
+302,"Tue, Feb 2, 2021",10:00p,Detroit Pistons,/teams/DET/2021.html,105,Utah Jazz,/teams/UTA/2021.html,117,/boxscores/202102020UTA.html,,"3,902"
+303,"Wed, Feb 3, 2021",7:00p,Philadelphia 76ers,/teams/PHI/2021.html,118,Charlotte Hornets,/teams/CHO/2021.html,111,/boxscores/202102030CHO.html,,0
+304,"Wed, Feb 3, 2021",7:00p,Indiana Pacers,/teams/IND/2021.html,110,Milwaukee Bucks,/teams/MIL/2021.html,130,/boxscores/202102030MIL.html,,0
+305,"Wed, Feb 3, 2021",7:30p,Dallas Mavericks,/teams/DAL/2021.html,122,Atlanta Hawks,/teams/ATL/2021.html,116,/boxscores/202102030ATL.html,,"1,259"
+306,"Wed, Feb 3, 2021",8:00p,New York Knicks,/teams/NYK/2021.html,107,Chicago Bulls,/teams/CHI/2021.html,103,/boxscores/202102030CHI.html,,0
+307,"Wed, Feb 3, 2021",8:00p,Los Angeles Clippers,/teams/LAC/2021.html,121,Cleveland Cavaliers,/teams/CLE/2021.html,99,/boxscores/202102030CLE.html,,"1,944"
+308,"Wed, Feb 3, 2021",8:00p,Washington Wizards,/teams/WAS/2021.html,103,Miami Heat,/teams/MIA/2021.html,100,/boxscores/202102030MIA.html,,0
+309,"Wed, Feb 3, 2021",8:00p,Houston Rockets,/teams/HOU/2021.html,87,Oklahoma City Thunder,/teams/OKC/2021.html,104,/boxscores/202102030OKC.html,,0
+310,"Wed, Feb 3, 2021",8:30p,Minnesota Timberwolves,/teams/MIN/2021.html,108,San Antonio Spurs,/teams/SAS/2021.html,111,/boxscores/202102030SAS.html,,0
+311,"Wed, Feb 3, 2021",9:30p,Phoenix Suns,/teams/PHO/2021.html,101,New Orleans Pelicans,/teams/NOP/2021.html,123,/boxscores/202102030NOP.html,,"1,440"
+312,"Wed, Feb 3, 2021",10:00p,Boston Celtics,/teams/BOS/2021.html,111,Sacramento Kings,/teams/SAC/2021.html,116,/boxscores/202102030SAC.html,,0
+313,"Thu, Feb 4, 2021",7:30p,Utah Jazz,/teams/UTA/2021.html,112,Atlanta Hawks,/teams/ATL/2021.html,91,/boxscores/202102040ATL.html,,"1,261"
+314,"Thu, Feb 4, 2021",7:30p,Golden State Warriors,/teams/GSW/2021.html,147,Dallas Mavericks,/teams/DAL/2021.html,116,/boxscores/202102040DAL.html,,0
+315,"Thu, Feb 4, 2021",8:00p,Portland Trail Blazers,/teams/POR/2021.html,121,Philadelphia 76ers,/teams/PHI/2021.html,105,/boxscores/202102040PHI.html,,0
+316,"Thu, Feb 4, 2021",9:00p,Houston Rockets,/teams/HOU/2021.html,115,Memphis Grizzlies,/teams/MEM/2021.html,103,/boxscores/202102040MEM.html,,"1,762"
+317,"Thu, Feb 4, 2021",10:00p,Denver Nuggets,/teams/DEN/2021.html,93,Los Angeles Lakers,/teams/LAL/2021.html,114,/boxscores/202102040LAL.html,,0
+318,"Fri, Feb 5, 2021",7:00p,New Orleans Pelicans,/teams/NOP/2021.html,114,Indiana Pacers,/teams/IND/2021.html,113,/boxscores/202102050IND.html,,0
+319,"Fri, Feb 5, 2021",7:00p,Chicago Bulls,/teams/CHI/2021.html,119,Orlando Magic,/teams/ORL/2021.html,123,/boxscores/202102050ORL.html,,"3,535"
+320,"Fri, Feb 5, 2021",7:30p,Toronto Raptors,/teams/TOR/2021.html,123,Brooklyn Nets,/teams/BRK/2021.html,117,/boxscores/202102050BRK.html,,0
+321,"Fri, Feb 5, 2021",7:30p,Milwaukee Bucks,/teams/MIL/2021.html,123,Cleveland Cavaliers,/teams/CLE/2021.html,105,/boxscores/202102050CLE.html,,"2,720"
+322,"Fri, Feb 5, 2021",8:00p,Utah Jazz,/teams/UTA/2021.html,138,Charlotte Hornets,/teams/CHO/2021.html,121,/boxscores/202102050CHO.html,,0
+323,"Fri, Feb 5, 2021",8:00p,Washington Wizards,/teams/WAS/2021.html,95,Miami Heat,/teams/MIA/2021.html,122,/boxscores/202102050MIA.html,,0
+324,"Fri, Feb 5, 2021",8:00p,Minnesota Timberwolves,/teams/MIN/2021.html,106,Oklahoma City Thunder,/teams/OKC/2021.html,103,/boxscores/202102050OKC.html,,0
+325,"Fri, Feb 5, 2021",9:00p,Detroit Pistons,/teams/DET/2021.html,92,Phoenix Suns,/teams/PHO/2021.html,109,/boxscores/202102050PHO.html,,0
+326,"Fri, Feb 5, 2021",10:00p,Boston Celtics,/teams/BOS/2021.html,119,Los Angeles Clippers,/teams/LAC/2021.html,115,/boxscores/202102050LAC.html,,0
+327,"Sat, Feb 6, 2021",1:00p,Portland Trail Blazers,/teams/POR/2021.html,99,New York Knicks,/teams/NYK/2021.html,110,/boxscores/202102060NYK.html,,0
+328,"Sat, Feb 6, 2021",5:00p,Denver Nuggets,/teams/DEN/2021.html,114,Sacramento Kings,/teams/SAC/2021.html,119,/boxscores/202102060SAC.html,,0
+329,"Sat, Feb 6, 2021",7:00p,Chicago Bulls,/teams/CHI/2021.html,118,Orlando Magic,/teams/ORL/2021.html,92,/boxscores/202102060ORL.html,,"3,880"
+330,"Sat, Feb 6, 2021",8:00p,Toronto Raptors,/teams/TOR/2021.html,121,Atlanta Hawks,/teams/ATL/2021.html,132,/boxscores/202102060ATL.html,,991
+331,"Sat, Feb 6, 2021",8:00p,Milwaukee Bucks,/teams/MIL/2021.html,124,Cleveland Cavaliers,/teams/CLE/2021.html,99,/boxscores/202102060CLE.html,,"2,720"
+332,"Sat, Feb 6, 2021",8:00p,San Antonio Spurs,/teams/SAS/2021.html,111,Houston Rockets,/teams/HOU/2021.html,106,/boxscores/202102060HOU.html,,"3,313"
+333,"Sat, Feb 6, 2021",8:00p,Minnesota Timberwolves,/teams/MIN/2021.html,118,Oklahoma City Thunder,/teams/OKC/2021.html,120,/boxscores/202102060OKC.html,,0
+334,"Sat, Feb 6, 2021",8:00p,Brooklyn Nets,/teams/BRK/2021.html,108,Philadelphia 76ers,/teams/PHI/2021.html,124,/boxscores/202102060PHI.html,,0
+335,"Sat, Feb 6, 2021",8:30p,Golden State Warriors,/teams/GSW/2021.html,132,Dallas Mavericks,/teams/DAL/2021.html,134,/boxscores/202102060DAL.html,,0
+336,"Sat, Feb 6, 2021",9:00p,Memphis Grizzlies,/teams/MEM/2021.html,109,New Orleans Pelicans,/teams/NOP/2021.html,118,/boxscores/202102060NOP.html,,"1,440"
+337,"Sat, Feb 6, 2021",10:00p,Detroit Pistons,/teams/DET/2021.html,129,Los Angeles Lakers,/teams/LAL/2021.html,135,/boxscores/202102060LAL.html,2OT,0
+338,"Sun, Feb 7, 2021",1:00p,Washington Wizards,/teams/WAS/2021.html,97,Charlotte Hornets,/teams/CHO/2021.html,119,/boxscores/202102070CHO.html,,0
+339,"Sun, Feb 7, 2021",1:00p,Utah Jazz,/teams/UTA/2021.html,103,Indiana Pacers,/teams/IND/2021.html,95,/boxscores/202102070IND.html,,0
+340,"Sun, Feb 7, 2021",1:00p,Miami Heat,/teams/MIA/2021.html,109,New York Knicks,/teams/NYK/2021.html,103,/boxscores/202102070NYK.html,,0
+341,"Sun, Feb 7, 2021",2:00p,Boston Celtics,/teams/BOS/2021.html,91,Phoenix Suns,/teams/PHO/2021.html,100,/boxscores/202102070PHO.html,,"1,493"
+342,"Sun, Feb 7, 2021",3:00p,Sacramento Kings,/teams/SAC/2021.html,113,Los Angeles Clippers,/teams/LAC/2021.html,110,/boxscores/202102070LAC.html,,0
+343,"Mon, Feb 8, 2021",7:00p,Houston Rockets,/teams/HOU/2021.html,94,Charlotte Hornets,/teams/CHO/2021.html,119,/boxscores/202102080CHO.html,,0
+344,"Mon, Feb 8, 2021",8:00p,Washington Wizards,/teams/WAS/2021.html,105,Chicago Bulls,/teams/CHI/2021.html,101,/boxscores/202102080CHI.html,,0
+345,"Mon, Feb 8, 2021",8:00p,Toronto Raptors,/teams/TOR/2021.html,128,Memphis Grizzlies,/teams/MEM/2021.html,113,/boxscores/202102080MEM.html,,"1,844"
+346,"Mon, Feb 8, 2021",8:30p,Minnesota Timberwolves,/teams/MIN/2021.html,122,Dallas Mavericks,/teams/DAL/2021.html,127,/boxscores/202102080DAL.html,,"1,000"
+347,"Mon, Feb 8, 2021",8:30p,Golden State Warriors,/teams/GSW/2021.html,100,San Antonio Spurs,/teams/SAS/2021.html,105,/boxscores/202102080SAS.html,,0
+348,"Mon, Feb 8, 2021",9:00p,Cleveland Cavaliers,/teams/CLE/2021.html,113,Phoenix Suns,/teams/PHO/2021.html,119,/boxscores/202102080PHO.html,,"1,485"
+349,"Mon, Feb 8, 2021",9:30p,Milwaukee Bucks,/teams/MIL/2021.html,125,Denver Nuggets,/teams/DEN/2021.html,112,/boxscores/202102080DEN.html,,0
+350,"Mon, Feb 8, 2021",10:00p,Oklahoma City Thunder,/teams/OKC/2021.html,112,Los Angeles Lakers,/teams/LAL/2021.html,119,/boxscores/202102080LAL.html,OT,0
+351,"Tue, Feb 9, 2021",7:00p,Brooklyn Nets,/teams/BRK/2021.html,111,Detroit Pistons,/teams/DET/2021.html,122,/boxscores/202102090DET.html,,0
+352,"Tue, Feb 9, 2021",7:30p,New York Knicks,/teams/NYK/2021.html,96,Miami Heat,/teams/MIA/2021.html,98,/boxscores/202102090MIA.html,,0
+353,"Tue, Feb 9, 2021",7:30p,Houston Rockets,/teams/HOU/2021.html,101,New Orleans Pelicans,/teams/NOP/2021.html,130,/boxscores/202102090NOP.html,,"1,900"
+354,"Tue, Feb 9, 2021",8:30p,Golden State Warriors,/teams/GSW/2021.html,114,San Antonio Spurs,/teams/SAS/2021.html,91,/boxscores/202102090SAS.html,,0
+355,"Tue, Feb 9, 2021",10:00p,Orlando Magic,/teams/ORL/2021.html,97,Portland Trail Blazers,/teams/POR/2021.html,106,/boxscores/202102090POR.html,,0
+356,"Tue, Feb 9, 2021",10:00p,Philadelphia 76ers,/teams/PHI/2021.html,119,Sacramento Kings,/teams/SAC/2021.html,111,/boxscores/202102090SAC.html,,0
+357,"Tue, Feb 9, 2021",10:00p,Boston Celtics,/teams/BOS/2021.html,108,Utah Jazz,/teams/UTA/2021.html,122,/boxscores/202102090UTA.html,,"3,902"
+358,"Wed, Feb 10, 2021",7:00p,Toronto Raptors,/teams/TOR/2021.html,137,Washington Wizards,/teams/WAS/2021.html,115,/boxscores/202102100WAS.html,,0
+359,"Wed, Feb 10, 2021",7:30p,Atlanta Hawks,/teams/ATL/2021.html,117,Dallas Mavericks,/teams/DAL/2021.html,118,/boxscores/202102100DAL.html,,"1,000"
+360,"Wed, Feb 10, 2021",8:00p,Indiana Pacers,/teams/IND/2021.html,94,Brooklyn Nets,/teams/BRK/2021.html,104,/boxscores/202102100BRK.html,,0
+361,"Wed, Feb 10, 2021",8:00p,Charlotte Hornets,/teams/CHO/2021.html,114,Memphis Grizzlies,/teams/MEM/2021.html,130,/boxscores/202102100MEM.html,,"1,830"
+362,"Wed, Feb 10, 2021",8:00p,Los Angeles Clippers,/teams/LAC/2021.html,119,Minnesota Timberwolves,/teams/MIN/2021.html,112,/boxscores/202102100MIN.html,,0
+363,"Wed, Feb 10, 2021",9:00p,New Orleans Pelicans,/teams/NOP/2021.html,116,Chicago Bulls,/teams/CHI/2021.html,129,/boxscores/202102100CHI.html,,0
+364,"Wed, Feb 10, 2021",9:00p,Cleveland Cavaliers,/teams/CLE/2021.html,95,Denver Nuggets,/teams/DEN/2021.html,133,/boxscores/202102100DEN.html,,0
+365,"Wed, Feb 10, 2021",10:00p,Oklahoma City Thunder,/teams/OKC/2021.html,113,Los Angeles Lakers,/teams/LAL/2021.html,114,/boxscores/202102100LAL.html,OT,0
+366,"Wed, Feb 10, 2021",10:00p,Milwaukee Bucks,/teams/MIL/2021.html,124,Phoenix Suns,/teams/PHO/2021.html,125,/boxscores/202102100PHO.html,,"1,491"
+367,"Thu, Feb 11, 2021",7:30p,Toronto Raptors,/teams/TOR/2021.html,106,Boston Celtics,/teams/BOS/2021.html,120,/boxscores/202102110BOS.html,,0
+368,"Thu, Feb 11, 2021",7:30p,Miami Heat,/teams/MIA/2021.html,101,Houston Rockets,/teams/HOU/2021.html,94,/boxscores/202102110HOU.html,,"3,251"
+369,"Thu, Feb 11, 2021",8:00p,Indiana Pacers,/teams/IND/2021.html,111,Detroit Pistons,/teams/DET/2021.html,95,/boxscores/202102110DET.html,,0
+370,"Thu, Feb 11, 2021",10:00p,Orlando Magic,/teams/ORL/2021.html,105,Golden State Warriors,/teams/GSW/2021.html,111,/boxscores/202102110GSW.html,,0
+371,"Thu, Feb 11, 2021",10:00p,Philadelphia 76ers,/teams/PHI/2021.html,114,Portland Trail Blazers,/teams/POR/2021.html,118,/boxscores/202102110POR.html,,0
+372,"Fri, Feb 12, 2021",7:00p,Minnesota Timberwolves,/teams/MIN/2021.html,114,Charlotte Hornets,/teams/CHO/2021.html,120,/boxscores/202102120CHO.html,,0
+373,"Fri, Feb 12, 2021",7:00p,New York Knicks,/teams/NYK/2021.html,109,Washington Wizards,/teams/WAS/2021.html,91,/boxscores/202102120WAS.html,,0
+374,"Fri, Feb 12, 2021",7:30p,San Antonio Spurs,/teams/SAS/2021.html,125,Atlanta Hawks,/teams/ATL/2021.html,114,/boxscores/202102120ATL.html,,"1,451"
+375,"Fri, Feb 12, 2021",7:30p,New Orleans Pelicans,/teams/NOP/2021.html,130,Dallas Mavericks,/teams/DAL/2021.html,143,/boxscores/202102120DAL.html,,"1,514"
+376,"Fri, Feb 12, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,108,Boston Celtics,/teams/BOS/2021.html,102,/boxscores/202102120BOS.html,,0
+377,"Fri, Feb 12, 2021",8:00p,Los Angeles Clippers,/teams/LAC/2021.html,125,Chicago Bulls,/teams/CHI/2021.html,106,/boxscores/202102120CHI.html,,0
+378,"Fri, Feb 12, 2021",9:00p,Oklahoma City Thunder,/teams/OKC/2021.html,95,Denver Nuggets,/teams/DEN/2021.html,97,/boxscores/202102120DEN.html,,0
+379,"Fri, Feb 12, 2021",9:00p,Milwaukee Bucks,/teams/MIL/2021.html,115,Utah Jazz,/teams/UTA/2021.html,129,/boxscores/202102120UTA.html,,"3,902"
+380,"Fri, Feb 12, 2021",10:00p,Memphis Grizzlies,/teams/MEM/2021.html,105,Los Angeles Lakers,/teams/LAL/2021.html,115,/boxscores/202102120LAL.html,,0
+381,"Fri, Feb 12, 2021",10:00p,Cleveland Cavaliers,/teams/CLE/2021.html,110,Portland Trail Blazers,/teams/POR/2021.html,129,/boxscores/202102120POR.html,,0
+382,"Fri, Feb 12, 2021",10:00p,Orlando Magic,/teams/ORL/2021.html,123,Sacramento Kings,/teams/SAC/2021.html,112,/boxscores/202102120SAC.html,,0
+383,"Sat, Feb 13, 2021",3:00p,Philadelphia 76ers,/teams/PHI/2021.html,111,Phoenix Suns,/teams/PHO/2021.html,120,/boxscores/202102130PHO.html,,"1,652"
+384,"Sat, Feb 13, 2021",7:30p,Indiana Pacers,/teams/IND/2021.html,125,Atlanta Hawks,/teams/ATL/2021.html,113,/boxscores/202102130ATL.html,,"1,393"
+385,"Sat, Feb 13, 2021",8:00p,Houston Rockets,/teams/HOU/2021.html,99,New York Knicks,/teams/NYK/2021.html,121,/boxscores/202102130NYK.html,,0
+386,"Sat, Feb 13, 2021",8:30p,Brooklyn Nets,/teams/BRK/2021.html,134,Golden State Warriors,/teams/GSW/2021.html,117,/boxscores/202102130GSW.html,,0
+387,"Sat, Feb 13, 2021",9:00p,Miami Heat,/teams/MIA/2021.html,94,Utah Jazz,/teams/UTA/2021.html,112,/boxscores/202102130UTA.html,,"3,902"
+388,"Sun, Feb 14, 2021",1:00p,Boston Celtics,/teams/BOS/2021.html,91,Washington Wizards,/teams/WAS/2021.html,104,/boxscores/202102140WAS.html,,0
+389,"Sun, Feb 14, 2021",7:00p,San Antonio Spurs,/teams/SAS/2021.html,122,Charlotte Hornets,/teams/CHO/2021.html,110,/boxscores/202102140CHO.html,,0
+390,"Sun, Feb 14, 2021",7:00p,New Orleans Pelicans,/teams/NOP/2021.html,112,Detroit Pistons,/teams/DET/2021.html,123,/boxscores/202102140DET.html,,0
+391,"Sun, Feb 14, 2021",7:00p,Minnesota Timberwolves,/teams/MIN/2021.html,116,Toronto Raptors,/teams/TOR/2021.html,112,/boxscores/202102140TOR.html,,0
+392,"Sun, Feb 14, 2021",7:30p,Portland Trail Blazers,/teams/POR/2021.html,121,Dallas Mavericks,/teams/DAL/2021.html,118,/boxscores/202102140DAL.html,,"2,211"
+393,"Sun, Feb 14, 2021",8:00p,Milwaukee Bucks,/teams/MIL/2021.html,109,Oklahoma City Thunder,/teams/OKC/2021.html,114,/boxscores/202102140OKC.html,,0
+394,"Sun, Feb 14, 2021",9:00p,Orlando Magic,/teams/ORL/2021.html,90,Phoenix Suns,/teams/PHO/2021.html,109,/boxscores/202102140PHO.html,,"1,732"
+395,"Sun, Feb 14, 2021",10:00p,Los Angeles Lakers,/teams/LAL/2021.html,105,Denver Nuggets,/teams/DEN/2021.html,122,/boxscores/202102140DEN.html,,0
+396,"Sun, Feb 14, 2021",10:00p,Cleveland Cavaliers,/teams/CLE/2021.html,111,Los Angeles Clippers,/teams/LAC/2021.html,128,/boxscores/202102140LAC.html,,0
+397,"Sun, Feb 14, 2021",10:00p,Memphis Grizzlies,/teams/MEM/2021.html,124,Sacramento Kings,/teams/SAC/2021.html,110,/boxscores/202102140SAC.html,,0
+398,"Mon, Feb 15, 2021",7:00p,Chicago Bulls,/teams/CHI/2021.html,120,Indiana Pacers,/teams/IND/2021.html,112,/boxscores/202102150IND.html,OT,0
+399,"Mon, Feb 15, 2021",7:00p,Houston Rockets,/teams/HOU/2021.html,119,Washington Wizards,/teams/WAS/2021.html,131,/boxscores/202102150WAS.html,,0
+400,"Mon, Feb 15, 2021",7:30p,Atlanta Hawks,/teams/ATL/2021.html,112,New York Knicks,/teams/NYK/2021.html,123,/boxscores/202102150NYK.html,,0
+401,"Mon, Feb 15, 2021",9:00p,Philadelphia 76ers,/teams/PHI/2021.html,123,Utah Jazz,/teams/UTA/2021.html,134,/boxscores/202102150UTA.html,,"3,902"
+402,"Mon, Feb 15, 2021",10:00p,Cleveland Cavaliers,/teams/CLE/2021.html,98,Golden State Warriors,/teams/GSW/2021.html,129,/boxscores/202102150GSW.html,,
+403,"Mon, Feb 15, 2021",10:00p,Miami Heat,/teams/MIA/2021.html,118,Los Angeles Clippers,/teams/LAC/2021.html,125,/boxscores/202102150LAC.html,,0
+404,"Mon, Feb 15, 2021",10:00p,Brooklyn Nets,/teams/BRK/2021.html,136,Sacramento Kings,/teams/SAC/2021.html,125,/boxscores/202102150SAC.html,,0
+405,"Tue, Feb 16, 2021",7:00p,Denver Nuggets,/teams/DEN/2021.html,99,Boston Celtics,/teams/BOS/2021.html,112,/boxscores/202102160BOS.html,,0
+406,"Tue, Feb 16, 2021",8:00p,New Orleans Pelicans,/teams/NOP/2021.html,144,Memphis Grizzlies,/teams/MEM/2021.html,113,/boxscores/202102160MEM.html,,"1,982"
+407,"Tue, Feb 16, 2021",8:00p,Toronto Raptors,/teams/TOR/2021.html,124,Milwaukee Bucks,/teams/MIL/2021.html,113,/boxscores/202102160MIL.html,,250
+408,"Tue, Feb 16, 2021",8:00p,Los Angeles Lakers,/teams/LAL/2021.html,112,Minnesota Timberwolves,/teams/MIN/2021.html,104,/boxscores/202102160MIN.html,,0
+409,"Tue, Feb 16, 2021",8:00p,Portland Trail Blazers,/teams/POR/2021.html,115,Oklahoma City Thunder,/teams/OKC/2021.html,104,/boxscores/202102160OKC.html,,0
+410,"Tue, Feb 16, 2021",10:30p,Brooklyn Nets,/teams/BRK/2021.html,128,Phoenix Suns,/teams/PHO/2021.html,124,/boxscores/202102160PHO.html,,"3,181"
+411,"Wed, Feb 17, 2021",7:00p,New York Knicks,/teams/NYK/2021.html,89,Orlando Magic,/teams/ORL/2021.html,107,/boxscores/202102170ORL.html,,"4,249"
+412,"Wed, Feb 17, 2021",7:30p,Atlanta Hawks,/teams/ATL/2021.html,122,Boston Celtics,/teams/BOS/2021.html,114,/boxscores/202102170BOS.html,,0
+413,"Wed, Feb 17, 2021",7:30p,Houston Rockets,/teams/HOU/2021.html,113,Philadelphia 76ers,/teams/PHI/2021.html,118,/boxscores/202102170PHI.html,,0
+414,"Wed, Feb 17, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,102,Chicago Bulls,/teams/CHI/2021.html,105,/boxscores/202102170CHI.html,,0
+415,"Wed, Feb 17, 2021",8:00p,Indiana Pacers,/teams/IND/2021.html,134,Minnesota Timberwolves,/teams/MIN/2021.html,128,/boxscores/202102170MIN.html,OT,0
+416,"Wed, Feb 17, 2021",8:00p,Denver Nuggets,/teams/DEN/2021.html,128,Washington Wizards,/teams/WAS/2021.html,130,/boxscores/202102170WAS.html,,0
+417,"Wed, Feb 17, 2021",9:00p,Oklahoma City Thunder,/teams/OKC/2021.html,113,Memphis Grizzlies,/teams/MEM/2021.html,122,/boxscores/202102170MEM.html,,0
+418,"Wed, Feb 17, 2021",9:00p,Portland Trail Blazers,/teams/POR/2021.html,126,New Orleans Pelicans,/teams/NOP/2021.html,124,/boxscores/202102170NOP.html,,"1,940"
+419,"Wed, Feb 17, 2021",10:00p,Miami Heat,/teams/MIA/2021.html,112,Golden State Warriors,/teams/GSW/2021.html,120,/boxscores/202102170GSW.html,OT,
+420,"Wed, Feb 17, 2021",10:00p,Utah Jazz,/teams/UTA/2021.html,114,Los Angeles Clippers,/teams/LAC/2021.html,96,/boxscores/202102170LAC.html,,
+421,"Thu, Feb 18, 2021",7:30p,Toronto Raptors,/teams/TOR/2021.html,110,Milwaukee Bucks,/teams/MIL/2021.html,96,/boxscores/202102180MIL.html,,500
+422,"Thu, Feb 18, 2021",10:00p,Brooklyn Nets,/teams/BRK/2021.html,109,Los Angeles Lakers,/teams/LAL/2021.html,98,/boxscores/202102180LAL.html,,0
+423,"Thu, Feb 18, 2021",10:00p,Miami Heat,/teams/MIA/2021.html,118,Sacramento Kings,/teams/SAC/2021.html,110,/boxscores/202102180SAC.html,,0
+424,"Fri, Feb 19, 2021",7:00p,Denver Nuggets,/teams/DEN/2021.html,120,Cleveland Cavaliers,/teams/CLE/2021.html,103,/boxscores/202102190CLE.html,,"2,720"
+425,"Fri, Feb 19, 2021",7:00p,Golden State Warriors,/teams/GSW/2021.html,120,Orlando Magic,/teams/ORL/2021.html,124,/boxscores/202102190ORL.html,,"4,287"
+426,"Fri, Feb 19, 2021",7:30p,Atlanta Hawks,/teams/ATL/2021.html,109,Boston Celtics,/teams/BOS/2021.html,121,/boxscores/202102190BOS.html,,0
+427,"Fri, Feb 19, 2021",7:30p,Chicago Bulls,/teams/CHI/2021.html,105,Philadelphia 76ers,/teams/PHI/2021.html,112,/boxscores/202102190PHI.html,,0
+428,"Fri, Feb 19, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,95,Memphis Grizzlies,/teams/MEM/2021.html,109,/boxscores/202102190MEM.html,,"1,795"
+429,"Fri, Feb 19, 2021",8:00p,Oklahoma City Thunder,/teams/OKC/2021.html,85,Milwaukee Bucks,/teams/MIL/2021.html,98,/boxscores/202102190MIL.html,,750
+430,"Fri, Feb 19, 2021",8:00p,Phoenix Suns,/teams/PHO/2021.html,132,New Orleans Pelicans,/teams/NOP/2021.html,114,/boxscores/202102190NOP.html,,"1,940"
+431,"Fri, Feb 19, 2021",9:00p,Toronto Raptors,/teams/TOR/2021.html,86,Minnesota Timberwolves,/teams/MIN/2021.html,81,/boxscores/202102190MIN.html,,0
+432,"Fri, Feb 19, 2021",10:00p,Utah Jazz,/teams/UTA/2021.html,112,Los Angeles Clippers,/teams/LAC/2021.html,116,/boxscores/202102190LAC.html,,0
+433,"Sat, Feb 20, 2021",8:00p,Golden State Warriors,/teams/GSW/2021.html,100,Charlotte Hornets,/teams/CHO/2021.html,102,/boxscores/202102200CHO.html,,0
+434,"Sat, Feb 20, 2021",8:30p,Miami Heat,/teams/MIA/2021.html,96,Los Angeles Lakers,/teams/LAL/2021.html,94,/boxscores/202102200LAL.html,,0
+435,"Sat, Feb 20, 2021",9:00p,Sacramento Kings,/teams/SAC/2021.html,114,Chicago Bulls,/teams/CHI/2021.html,122,/boxscores/202102200CHI.html,,0
+436,"Sat, Feb 20, 2021",9:00p,Phoenix Suns,/teams/PHO/2021.html,128,Memphis Grizzlies,/teams/MEM/2021.html,97,/boxscores/202102200MEM.html,,"1,994"
+437,"Sat, Feb 20, 2021",10:00p,Washington Wizards,/teams/WAS/2021.html,118,Portland Trail Blazers,/teams/POR/2021.html,111,/boxscores/202102200POR.html,,0
+438,"Sun, Feb 21, 2021",3:30p,Boston Celtics,/teams/BOS/2021.html,115,New Orleans Pelicans,/teams/NOP/2021.html,120,/boxscores/202102210NOP.html,OT,"1,940"
+439,"Sun, Feb 21, 2021",7:00p,Oklahoma City Thunder,/teams/OKC/2021.html,117,Cleveland Cavaliers,/teams/CLE/2021.html,101,/boxscores/202102210CLE.html,,"2,720"
+440,"Sun, Feb 21, 2021",7:00p,Minnesota Timberwolves,/teams/MIN/2021.html,99,New York Knicks,/teams/NYK/2021.html,103,/boxscores/202102210NYK.html,,0
+441,"Sun, Feb 21, 2021",7:00p,Detroit Pistons,/teams/DET/2021.html,96,Orlando Magic,/teams/ORL/2021.html,105,/boxscores/202102210ORL.html,,"4,002"
+442,"Sun, Feb 21, 2021",7:00p,Philadelphia 76ers,/teams/PHI/2021.html,103,Toronto Raptors,/teams/TOR/2021.html,110,/boxscores/202102210TOR.html,,0
+443,"Sun, Feb 21, 2021",7:30p,Denver Nuggets,/teams/DEN/2021.html,115,Atlanta Hawks,/teams/ATL/2021.html,123,/boxscores/202102210ATL.html,,"1,362"
+444,"Sun, Feb 21, 2021",8:00p,Brooklyn Nets,/teams/BRK/2021.html,112,Los Angeles Clippers,/teams/LAC/2021.html,108,/boxscores/202102210LAC.html,,
+445,"Sun, Feb 21, 2021",9:00p,Sacramento Kings,/teams/SAC/2021.html,115,Milwaukee Bucks,/teams/MIL/2021.html,128,/boxscores/202102210MIL.html,,"1,800"
+446,"Mon, Feb 22, 2021",8:00p,Chicago Bulls,/teams/CHI/2021.html,120,Houston Rockets,/teams/HOU/2021.html,100,/boxscores/202102220HOU.html,,"3,025"
+447,"Mon, Feb 22, 2021",8:30p,Memphis Grizzlies,/teams/MEM/2021.html,92,Dallas Mavericks,/teams/DAL/2021.html,102,/boxscores/202102220DAL.html,,"2,099"
+448,"Mon, Feb 22, 2021",9:00p,Miami Heat,/teams/MIA/2021.html,108,Oklahoma City Thunder,/teams/OKC/2021.html,94,/boxscores/202102220OKC.html,,0
+449,"Mon, Feb 22, 2021",9:00p,Portland Trail Blazers,/teams/POR/2021.html,100,Phoenix Suns,/teams/PHO/2021.html,132,/boxscores/202102220PHO.html,,"3,213"
+450,"Mon, Feb 22, 2021",9:00p,Charlotte Hornets,/teams/CHO/2021.html,110,Utah Jazz,/teams/UTA/2021.html,132,/boxscores/202102220UTA.html,,"3,902"
+451,"Mon, Feb 22, 2021",10:00p,Washington Wizards,/teams/WAS/2021.html,127,Los Angeles Lakers,/teams/LAL/2021.html,124,/boxscores/202102220LAL.html,OT,0
+452,"Tue, Feb 23, 2021",7:00p,Atlanta Hawks,/teams/ATL/2021.html,111,Cleveland Cavaliers,/teams/CLE/2021.html,112,/boxscores/202102230CLE.html,,"2,720"
+453,"Tue, Feb 23, 2021",7:00p,Detroit Pistons,/teams/DET/2021.html,105,Orlando Magic,/teams/ORL/2021.html,93,/boxscores/202102230ORL.html,,"3,631"
+454,"Tue, Feb 23, 2021",7:30p,Sacramento Kings,/teams/SAC/2021.html,118,Brooklyn Nets,/teams/BRK/2021.html,127,/boxscores/202102230BRK.html,,324
+455,"Tue, Feb 23, 2021",7:30p,Boston Celtics,/teams/BOS/2021.html,107,Dallas Mavericks,/teams/DAL/2021.html,110,/boxscores/202102230DAL.html,,"3,338"
+456,"Tue, Feb 23, 2021",7:30p,Golden State Warriors,/teams/GSW/2021.html,114,New York Knicks,/teams/NYK/2021.html,106,/boxscores/202102230NYK.html,,"1,981"
+457,"Tue, Feb 23, 2021",7:30p,Philadelphia 76ers,/teams/PHI/2021.html,109,Toronto Raptors,/teams/TOR/2021.html,102,/boxscores/202102230TOR.html,,0
+458,"Tue, Feb 23, 2021",8:00p,Minnesota Timberwolves,/teams/MIN/2021.html,112,Milwaukee Bucks,/teams/MIL/2021.html,139,/boxscores/202102230MIL.html,,"1,800"
+459,"Tue, Feb 23, 2021",10:00p,Portland Trail Blazers,/teams/POR/2021.html,106,Denver Nuggets,/teams/DEN/2021.html,111,/boxscores/202102230DEN.html,,0
+460,"Tue, Feb 23, 2021",10:00p,Washington Wizards,/teams/WAS/2021.html,116,Los Angeles Clippers,/teams/LAC/2021.html,135,/boxscores/202102230LAC.html,,0
+461,"Wed, Feb 24, 2021",7:30p,Boston Celtics,/teams/BOS/2021.html,112,Atlanta Hawks,/teams/ATL/2021.html,127,/boxscores/202102240ATL.html,,"1,537"
+462,"Wed, Feb 24, 2021",7:30p,Houston Rockets,/teams/HOU/2021.html,96,Cleveland Cavaliers,/teams/CLE/2021.html,112,/boxscores/202102240CLE.html,,"2,720"
+463,"Wed, Feb 24, 2021",7:30p,Golden State Warriors,/teams/GSW/2021.html,111,Indiana Pacers,/teams/IND/2021.html,107,/boxscores/202102240IND.html,,0
+464,"Wed, Feb 24, 2021",8:00p,Minnesota Timberwolves,/teams/MIN/2021.html,126,Chicago Bulls,/teams/CHI/2021.html,133,/boxscores/202102240CHI.html,OT,0
+465,"Wed, Feb 24, 2021",8:00p,Toronto Raptors,/teams/TOR/2021.html,108,Miami Heat,/teams/MIA/2021.html,116,/boxscores/202102240MIA.html,,0
+466,"Wed, Feb 24, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,118,New Orleans Pelicans,/teams/NOP/2021.html,128,/boxscores/202102240NOP.html,,"2,700"
+467,"Wed, Feb 24, 2021",8:00p,San Antonio Spurs,/teams/SAS/2021.html,99,Oklahoma City Thunder,/teams/OKC/2021.html,102,/boxscores/202102240OKC.html,,0
+468,"Wed, Feb 24, 2021",9:00p,Charlotte Hornets,/teams/CHO/2021.html,124,Phoenix Suns,/teams/PHO/2021.html,121,/boxscores/202102240PHO.html,,"3,296"
+469,"Wed, Feb 24, 2021",10:00p,Los Angeles Lakers,/teams/LAL/2021.html,89,Utah Jazz,/teams/UTA/2021.html,114,/boxscores/202102240UTA.html,,"4,912"
+470,"Thu, Feb 25, 2021",7:00p,Dallas Mavericks,/teams/DAL/2021.html,97,Philadelphia 76ers,/teams/PHI/2021.html,111,/boxscores/202102250PHI.html,,0
+471,"Thu, Feb 25, 2021",7:30p,Orlando Magic,/teams/ORL/2021.html,92,Brooklyn Nets,/teams/BRK/2021.html,129,/boxscores/202102250BRK.html,,327
+472,"Thu, Feb 25, 2021",7:30p,Sacramento Kings,/teams/SAC/2021.html,121,New York Knicks,/teams/NYK/2021.html,140,/boxscores/202102250NYK.html,,"1,981"
+473,"Thu, Feb 25, 2021",8:00p,Los Angeles Clippers,/teams/LAC/2021.html,94,Memphis Grizzlies,/teams/MEM/2021.html,122,/boxscores/202102250MEM.html,,"1,896"
+474,"Thu, Feb 25, 2021",9:00p,Washington Wizards,/teams/WAS/2021.html,112,Denver Nuggets,/teams/DEN/2021.html,110,/boxscores/202102250DEN.html,,0
+475,"Thu, Feb 25, 2021",9:30p,New Orleans Pelicans,/teams/NOP/2021.html,125,Milwaukee Bucks,/teams/MIL/2021.html,129,/boxscores/202102250MIL.html,,"1,800"
+476,"Fri, Feb 26, 2021",7:30p,Indiana Pacers,/teams/IND/2021.html,112,Boston Celtics,/teams/BOS/2021.html,118,/boxscores/202102260BOS.html,,0
+477,"Fri, Feb 26, 2021",7:30p,Houston Rockets,/teams/HOU/2021.html,111,Toronto Raptors,/teams/TOR/2021.html,122,/boxscores/202102260TOR.html,,0
+478,"Fri, Feb 26, 2021",8:00p,Phoenix Suns,/teams/PHO/2021.html,106,Chicago Bulls,/teams/CHI/2021.html,97,/boxscores/202102260CHI.html,,0
+479,"Fri, Feb 26, 2021",8:00p,Sacramento Kings,/teams/SAC/2021.html,110,Detroit Pistons,/teams/DET/2021.html,107,/boxscores/202102260DET.html,,0
+480,"Fri, Feb 26, 2021",8:00p,Los Angeles Clippers,/teams/LAC/2021.html,119,Memphis Grizzlies,/teams/MEM/2021.html,99,/boxscores/202102260MEM.html,,"2,039"
+481,"Fri, Feb 26, 2021",8:00p,Utah Jazz,/teams/UTA/2021.html,116,Miami Heat,/teams/MIA/2021.html,124,/boxscores/202102260MIA.html,,0
+482,"Fri, Feb 26, 2021",8:00p,Atlanta Hawks,/teams/ATL/2021.html,109,Oklahoma City Thunder,/teams/OKC/2021.html,118,/boxscores/202102260OKC.html,,0
+483,"Fri, Feb 26, 2021",10:00p,Charlotte Hornets,/teams/CHO/2021.html,121,Golden State Warriors,/teams/GSW/2021.html,130,/boxscores/202102260GSW.html,,0
+484,"Fri, Feb 26, 2021",10:00p,Portland Trail Blazers,/teams/POR/2021.html,93,Los Angeles Lakers,/teams/LAL/2021.html,102,/boxscores/202102260LAL.html,,0
+485,"Sat, Feb 27, 2021",7:00p,Cleveland Cavaliers,/teams/CLE/2021.html,112,Philadelphia 76ers,/teams/PHI/2021.html,109,/boxscores/202102270PHI.html,OT,0
+486,"Sat, Feb 27, 2021",7:00p,Minnesota Timberwolves,/teams/MIN/2021.html,112,Washington Wizards,/teams/WAS/2021.html,128,/boxscores/202102270WAS.html,,0
+487,"Sat, Feb 27, 2021",8:00p,Indiana Pacers,/teams/IND/2021.html,107,New York Knicks,/teams/NYK/2021.html,110,/boxscores/202102270NYK.html,,"1,981"
+488,"Sat, Feb 27, 2021",8:00p,Denver Nuggets,/teams/DEN/2021.html,126,Oklahoma City Thunder,/teams/OKC/2021.html,96,/boxscores/202102270OKC.html,,0
+489,"Sat, Feb 27, 2021",8:00p,Utah Jazz,/teams/UTA/2021.html,124,Orlando Magic,/teams/ORL/2021.html,109,/boxscores/202102270ORL.html,,"4,242"
+490,"Sat, Feb 27, 2021",8:00p,New Orleans Pelicans,/teams/NOP/2021.html,114,San Antonio Spurs,/teams/SAS/2021.html,117,/boxscores/202102270SAS.html,,0
+491,"Sat, Feb 27, 2021",8:30p,Dallas Mavericks,/teams/DAL/2021.html,115,Brooklyn Nets,/teams/BRK/2021.html,98,/boxscores/202102270BRK.html,,684
+492,"Sun, Feb 28, 2021",3:30p,Los Angeles Clippers,/teams/LAC/2021.html,100,Milwaukee Bucks,/teams/MIL/2021.html,105,/boxscores/202102280MIL.html,,"1,800"
+493,"Sun, Feb 28, 2021",7:00p,Washington Wizards,/teams/WAS/2021.html,110,Boston Celtics,/teams/BOS/2021.html,111,/boxscores/202102280BOS.html,,0
+494,"Sun, Feb 28, 2021",8:00p,New York Knicks,/teams/NYK/2021.html,109,Detroit Pistons,/teams/DET/2021.html,90,/boxscores/202102280DET.html,,0
+495,"Sun, Feb 28, 2021",8:00p,Memphis Grizzlies,/teams/MEM/2021.html,133,Houston Rockets,/teams/HOU/2021.html,84,/boxscores/202102280HOU.html,,"3,284"
+496,"Sun, Feb 28, 2021",8:00p,Golden State Warriors,/teams/GSW/2021.html,91,Los Angeles Lakers,/teams/LAL/2021.html,117,/boxscores/202102280LAL.html,,0
+497,"Sun, Feb 28, 2021",8:00p,Atlanta Hawks,/teams/ATL/2021.html,99,Miami Heat,/teams/MIA/2021.html,109,/boxscores/202102280MIA.html,,0
+498,"Sun, Feb 28, 2021",9:00p,Phoenix Suns,/teams/PHO/2021.html,118,Minnesota Timberwolves,/teams/MIN/2021.html,99,/boxscores/202102280MIN.html,,0
+499,"Sun, Feb 28, 2021",10:00p,Charlotte Hornets,/teams/CHO/2021.html,127,Sacramento Kings,/teams/SAC/2021.html,126,/boxscores/202102280SAC.html,,0
+500,"Mon, Mar 1, 2021",7:00p,Dallas Mavericks,/teams/DAL/2021.html,130,Orlando Magic,/teams/ORL/2021.html,124,/boxscores/202103010ORL.html,,"3,766"
+501,"Mon, Mar 1, 2021",7:00p,Indiana Pacers,/teams/IND/2021.html,114,Philadelphia 76ers,/teams/PHI/2021.html,130,/boxscores/202103010PHI.html,,0
+502,"Mon, Mar 1, 2021",8:00p,Denver Nuggets,/teams/DEN/2021.html,118,Chicago Bulls,/teams/CHI/2021.html,112,/boxscores/202103010CHI.html,,0
+503,"Mon, Mar 1, 2021",8:00p,Utah Jazz,/teams/UTA/2021.html,124,New Orleans Pelicans,/teams/NOP/2021.html,129,/boxscores/202103010NOP.html,,"2,700"
+504,"Mon, Mar 1, 2021",8:30p,Brooklyn Nets,/teams/BRK/2021.html,124,San Antonio Spurs,/teams/SAS/2021.html,113,/boxscores/202103010SAS.html,OT,0
+505,"Mon, Mar 1, 2021",9:00p,Cleveland Cavaliers,/teams/CLE/2021.html,101,Houston Rockets,/teams/HOU/2021.html,90,/boxscores/202103010HOU.html,,"3,046"
+506,"Mon, Mar 1, 2021",10:30p,Charlotte Hornets,/teams/CHO/2021.html,111,Portland Trail Blazers,/teams/POR/2021.html,123,/boxscores/202103010POR.html,,0
+507,"Tue, Mar 2, 2021",7:00p,Memphis Grizzlies,/teams/MEM/2021.html,125,Washington Wizards,/teams/WAS/2021.html,111,/boxscores/202103020WAS.html,,0
+508,"Tue, Mar 2, 2021",7:30p,Los Angeles Clippers,/teams/LAC/2021.html,112,Boston Celtics,/teams/BOS/2021.html,117,/boxscores/202103020BOS.html,,0
+509,"Tue, Mar 2, 2021",7:30p,Atlanta Hawks,/teams/ATL/2021.html,94,Miami Heat,/teams/MIA/2021.html,80,/boxscores/202103020MIA.html,,0
+510,"Tue, Mar 2, 2021",8:30p,New York Knicks,/teams/NYK/2021.html,93,San Antonio Spurs,/teams/SAS/2021.html,119,/boxscores/202103020SAS.html,,0
+511,"Tue, Mar 2, 2021",9:00p,Denver Nuggets,/teams/DEN/2021.html,128,Milwaukee Bucks,/teams/MIL/2021.html,97,/boxscores/202103020MIL.html,,"1,800"
+512,"Tue, Mar 2, 2021",10:00p,Phoenix Suns,/teams/PHO/2021.html,114,Los Angeles Lakers,/teams/LAL/2021.html,104,/boxscores/202103020LAL.html,,0
+513,"Wed, Mar 3, 2021",7:00p,Indiana Pacers,/teams/IND/2021.html,114,Cleveland Cavaliers,/teams/CLE/2021.html,111,/boxscores/202103030CLE.html,,"2,720"
+514,"Wed, Mar 3, 2021",7:00p,Utah Jazz,/teams/UTA/2021.html,123,Philadelphia 76ers,/teams/PHI/2021.html,131,/boxscores/202103030PHI.html,OT,0
+515,"Wed, Mar 3, 2021",7:00p,Detroit Pistons,/teams/DET/2021.html,129,Toronto Raptors,/teams/TOR/2021.html,105,/boxscores/202103030TOR.html,,0
+516,"Wed, Mar 3, 2021",7:30p,Brooklyn Nets,/teams/BRK/2021.html,132,Houston Rockets,/teams/HOU/2021.html,114,/boxscores/202103030HOU.html,,"3,615"
+517,"Wed, Mar 3, 2021",8:00p,Charlotte Hornets,/teams/CHO/2021.html,135,Minnesota Timberwolves,/teams/MIN/2021.html,102,/boxscores/202103030MIN.html,,0
+518,"Wed, Mar 3, 2021",8:00p,Chicago Bulls,/teams/CHI/2021.html,128,New Orleans Pelicans,/teams/NOP/2021.html,124,/boxscores/202103030NOP.html,,"2,700"
+519,"Wed, Mar 3, 2021",8:00p,Atlanta Hawks,/teams/ATL/2021.html,115,Orlando Magic,/teams/ORL/2021.html,112,/boxscores/202103030ORL.html,,"3,969"
+520,"Wed, Mar 3, 2021",8:30p,Oklahoma City Thunder,/teams/OKC/2021.html,78,Dallas Mavericks,/teams/DAL/2021.html,87,/boxscores/202103030DAL.html,,"3,508"
+521,"Wed, Mar 3, 2021",10:00p,Golden State Warriors,/teams/GSW/2021.html,106,Portland Trail Blazers,/teams/POR/2021.html,108,/boxscores/202103030POR.html,,0
+522,"Wed, Mar 3, 2021",10:00p,Los Angeles Lakers,/teams/LAL/2021.html,120,Sacramento Kings,/teams/SAC/2021.html,123,/boxscores/202103030SAC.html,,0
+523,"Thu, Mar 4, 2021",7:00p,Toronto Raptors,/teams/TOR/2021.html,125,Boston Celtics,/teams/BOS/2021.html,132,/boxscores/202103040BOS.html,,0
+524,"Thu, Mar 4, 2021",7:00p,Los Angeles Clippers,/teams/LAC/2021.html,117,Washington Wizards,/teams/WAS/2021.html,119,/boxscores/202103040WAS.html,,0
+525,"Thu, Mar 4, 2021",7:30p,Detroit Pistons,/teams/DET/2021.html,104,New York Knicks,/teams/NYK/2021.html,114,/boxscores/202103040NYK.html,,"1,981"
+526,"Thu, Mar 4, 2021",8:00p,Denver Nuggets,/teams/DEN/2021.html,113,Indiana Pacers,/teams/IND/2021.html,103,/boxscores/202103040IND.html,,0
+527,"Thu, Mar 4, 2021",8:00p,Milwaukee Bucks,/teams/MIL/2021.html,112,Memphis Grizzlies,/teams/MEM/2021.html,111,/boxscores/202103040MEM.html,,"1,961"
+528,"Thu, Mar 4, 2021",8:30p,Miami Heat,/teams/MIA/2021.html,103,New Orleans Pelicans,/teams/NOP/2021.html,93,/boxscores/202103040NOP.html,,"2,700"
+529,"Thu, Mar 4, 2021",9:00p,Oklahoma City Thunder,/teams/OKC/2021.html,107,San Antonio Spurs,/teams/SAS/2021.html,102,/boxscores/202103040SAS.html,,"1,000"
+530,"Thu, Mar 4, 2021",10:00p,Golden State Warriors,/teams/GSW/2021.html,98,Phoenix Suns,/teams/PHO/2021.html,120,/boxscores/202103040PHO.html,,"3,233"
+531,"Thu, Mar 4, 2021",10:00p,Sacramento Kings,/teams/SAC/2021.html,119,Portland Trail Blazers,/teams/POR/2021.html,123,/boxscores/202103040POR.html,,0
+532,"Wed, Mar 10, 2021",8:00p,Washington Wizards,/teams/WAS/2021.html,112,Memphis Grizzlies,/teams/MEM/2021.html,127,/boxscores/202103100MEM.html,,"1,912"
+533,"Wed, Mar 10, 2021",8:30p,San Antonio Spurs,/teams/SAS/2021.html,104,Dallas Mavericks,/teams/DAL/2021.html,115,/boxscores/202103100DAL.html,,"3,813"
+534,"Thu, Mar 11, 2021",7:00p,Detroit Pistons,/teams/DET/2021.html,102,Charlotte Hornets,/teams/CHO/2021.html,105,/boxscores/202103110CHO.html,,0
+535,"Thu, Mar 11, 2021",7:30p,Boston Celtics,/teams/BOS/2021.html,109,Brooklyn Nets,/teams/BRK/2021.html,121,/boxscores/202103110BRK.html,,"1,374"
+536,"Thu, Mar 11, 2021",7:30p,Atlanta Hawks,/teams/ATL/2021.html,121,Toronto Raptors,/teams/TOR/2021.html,120,/boxscores/202103110TOR.html,,0
+537,"Thu, Mar 11, 2021",8:00p,Philadelphia 76ers,/teams/PHI/2021.html,127,Chicago Bulls,/teams/CHI/2021.html,105,/boxscores/202103110CHI.html,,0
+538,"Thu, Mar 11, 2021",8:00p,Orlando Magic,/teams/ORL/2021.html,103,Miami Heat,/teams/MIA/2021.html,111,/boxscores/202103110MIA.html,,0
+539,"Thu, Mar 11, 2021",8:00p,New York Knicks,/teams/NYK/2021.html,101,Milwaukee Bucks,/teams/MIL/2021.html,134,/boxscores/202103110MIL.html,,"1,800"
+540,"Thu, Mar 11, 2021",8:00p,Minnesota Timberwolves,/teams/MIN/2021.html,135,New Orleans Pelicans,/teams/NOP/2021.html,105,/boxscores/202103110NOP.html,,"3,700"
+541,"Thu, Mar 11, 2021",9:00p,Dallas Mavericks,/teams/DAL/2021.html,108,Oklahoma City Thunder,/teams/OKC/2021.html,116,/boxscores/202103110OKC.html,,0
+542,"Thu, Mar 11, 2021",10:00p,Golden State Warriors,/teams/GSW/2021.html,104,Los Angeles Clippers,/teams/LAC/2021.html,130,/boxscores/202103110LAC.html,,0
+543,"Thu, Mar 11, 2021",10:00p,Phoenix Suns,/teams/PHO/2021.html,127,Portland Trail Blazers,/teams/POR/2021.html,121,/boxscores/202103110POR.html,,0
+544,"Thu, Mar 11, 2021",10:00p,Houston Rockets,/teams/HOU/2021.html,105,Sacramento Kings,/teams/SAC/2021.html,125,/boxscores/202103110SAC.html,,0
+545,"Fri, Mar 12, 2021",8:00p,Denver Nuggets,/teams/DEN/2021.html,103,Memphis Grizzlies,/teams/MEM/2021.html,102,/boxscores/202103120MEM.html,,"2,160"
+546,"Fri, Mar 12, 2021",8:00p,Cleveland Cavaliers,/teams/CLE/2021.html,82,New Orleans Pelicans,/teams/NOP/2021.html,116,/boxscores/202103120NOP.html,,"3,700"
+547,"Fri, Mar 12, 2021",8:00p,Philadelphia 76ers,/teams/PHI/2021.html,127,Washington Wizards,/teams/WAS/2021.html,101,/boxscores/202103120WAS.html,,0
+548,"Fri, Mar 12, 2021",9:00p,Miami Heat,/teams/MIA/2021.html,101,Chicago Bulls,/teams/CHI/2021.html,90,/boxscores/202103120CHI.html,,0
+549,"Fri, Mar 12, 2021",9:00p,Orlando Magic,/teams/ORL/2021.html,77,San Antonio Spurs,/teams/SAS/2021.html,104,/boxscores/202103120SAS.html,,"3,241"
+550,"Fri, Mar 12, 2021",10:00p,Houston Rockets,/teams/HOU/2021.html,99,Utah Jazz,/teams/UTA/2021.html,114,/boxscores/202103120UTA.html,,"5,546"
+551,"Fri, Mar 12, 2021",10:30p,Indiana Pacers,/teams/IND/2021.html,100,Los Angeles Lakers,/teams/LAL/2021.html,105,/boxscores/202103120LAL.html,,0
+552,"Sat, Mar 13, 2021",2:00p,New York Knicks,/teams/NYK/2021.html,119,Oklahoma City Thunder,/teams/OKC/2021.html,97,/boxscores/202103130OKC.html,,0
+553,"Sat, Mar 13, 2021",7:00p,Detroit Pistons,/teams/DET/2021.html,95,Brooklyn Nets,/teams/BRK/2021.html,100,/boxscores/202103130BRK.html,,"1,364"
+554,"Sat, Mar 13, 2021",7:00p,Toronto Raptors,/teams/TOR/2021.html,104,Charlotte Hornets,/teams/CHO/2021.html,114,/boxscores/202103130CHO.html,,"2,861"
+555,"Sat, Mar 13, 2021",7:00p,Milwaukee Bucks,/teams/MIL/2021.html,125,Washington Wizards,/teams/WAS/2021.html,119,/boxscores/202103130WAS.html,,0
+556,"Sat, Mar 13, 2021",7:30p,Sacramento Kings,/teams/SAC/2021.html,106,Atlanta Hawks,/teams/ATL/2021.html,121,/boxscores/202103130ATL.html,,"2,347"
+557,"Sat, Mar 13, 2021",8:00p,Portland Trail Blazers,/teams/POR/2021.html,125,Minnesota Timberwolves,/teams/MIN/2021.html,121,/boxscores/202103130MIN.html,,0
+558,"Sat, Mar 13, 2021",10:00p,Dallas Mavericks,/teams/DAL/2021.html,116,Denver Nuggets,/teams/DEN/2021.html,103,/boxscores/202103130DEN.html,,0
+559,"Sat, Mar 13, 2021",10:00p,Indiana Pacers,/teams/IND/2021.html,122,Phoenix Suns,/teams/PHO/2021.html,111,/boxscores/202103130PHO.html,,"3,166"
+560,"Sun, Mar 14, 2021",2:00p,Memphis Grizzlies,/teams/MEM/2021.html,122,Oklahoma City Thunder,/teams/OKC/2021.html,128,/boxscores/202103140OKC.html,,0
+561,"Sun, Mar 14, 2021",4:00p,Utah Jazz,/teams/UTA/2021.html,119,Golden State Warriors,/teams/GSW/2021.html,131,/boxscores/202103140GSW.html,,0
+562,"Sun, Mar 14, 2021",6:30p,San Antonio Spurs,/teams/SAS/2021.html,99,Philadelphia 76ers,/teams/PHI/2021.html,134,/boxscores/202103140PHI.html,,"3,071"
+563,"Sun, Mar 14, 2021",7:00p,Miami Heat,/teams/MIA/2021.html,102,Orlando Magic,/teams/ORL/2021.html,97,/boxscores/202103140ORL.html,,"3,264"
+564,"Sun, Mar 14, 2021",7:30p,Cleveland Cavaliers,/teams/CLE/2021.html,82,Atlanta Hawks,/teams/ATL/2021.html,100,/boxscores/202103140ATL.html,,"2,322"
+565,"Sun, Mar 14, 2021",8:00p,Boston Celtics,/teams/BOS/2021.html,134,Houston Rockets,/teams/HOU/2021.html,107,/boxscores/202103140HOU.html,,"3,264"
+566,"Sun, Mar 14, 2021",8:00p,Portland Trail Blazers,/teams/POR/2021.html,112,Minnesota Timberwolves,/teams/MIN/2021.html,114,/boxscores/202103140MIN.html,,0
+567,"Sun, Mar 14, 2021",9:00p,Toronto Raptors,/teams/TOR/2021.html,95,Chicago Bulls,/teams/CHI/2021.html,118,/boxscores/202103140CHI.html,,0
+568,"Sun, Mar 14, 2021",9:00p,Los Angeles Clippers,/teams/LAC/2021.html,115,New Orleans Pelicans,/teams/NOP/2021.html,135,/boxscores/202103140NOP.html,,"3,700"
+569,"Mon, Mar 15, 2021",7:00p,Sacramento Kings,/teams/SAC/2021.html,116,Charlotte Hornets,/teams/CHO/2021.html,122,/boxscores/202103150CHO.html,,"2,861"
+570,"Mon, Mar 15, 2021",7:00p,Milwaukee Bucks,/teams/MIL/2021.html,133,Washington Wizards,/teams/WAS/2021.html,122,/boxscores/202103150WAS.html,,0
+571,"Mon, Mar 15, 2021",8:00p,New York Knicks,/teams/NYK/2021.html,112,Brooklyn Nets,/teams/BRK/2021.html,117,/boxscores/202103150BRK.html,,"1,637"
+572,"Mon, Mar 15, 2021",8:00p,San Antonio Spurs,/teams/SAS/2021.html,109,Detroit Pistons,/teams/DET/2021.html,99,/boxscores/202103150DET.html,,0
+573,"Mon, Mar 15, 2021",9:00p,Los Angeles Clippers,/teams/LAC/2021.html,109,Dallas Mavericks,/teams/DAL/2021.html,99,/boxscores/202103150DAL.html,,"3,945"
+574,"Mon, Mar 15, 2021",10:00p,Indiana Pacers,/teams/IND/2021.html,106,Denver Nuggets,/teams/DEN/2021.html,121,/boxscores/202103150DEN.html,,0
+575,"Mon, Mar 15, 2021",10:00p,Memphis Grizzlies,/teams/MEM/2021.html,99,Phoenix Suns,/teams/PHO/2021.html,122,/boxscores/202103150PHO.html,,"3,188"
+576,"Mon, Mar 15, 2021",10:30p,Los Angeles Lakers,/teams/LAL/2021.html,128,Golden State Warriors,/teams/GSW/2021.html,97,/boxscores/202103150GSW.html,,0
+577,"Tue, Mar 16, 2021",7:30p,Utah Jazz,/teams/UTA/2021.html,117,Boston Celtics,/teams/BOS/2021.html,109,/boxscores/202103160BOS.html,,0
+578,"Tue, Mar 16, 2021",8:00p,Oklahoma City Thunder,/teams/OKC/2021.html,102,Chicago Bulls,/teams/CHI/2021.html,123,/boxscores/202103160CHI.html,,0
+579,"Tue, Mar 16, 2021",8:00p,Atlanta Hawks,/teams/ATL/2021.html,119,Houston Rockets,/teams/HOU/2021.html,107,/boxscores/202103160HOU.html,,"3,069"
+580,"Tue, Mar 16, 2021",8:00p,Cleveland Cavaliers,/teams/CLE/2021.html,98,Miami Heat,/teams/MIA/2021.html,113,/boxscores/202103160MIA.html,,0
+581,"Tue, Mar 16, 2021",8:00p,New York Knicks,/teams/NYK/2021.html,96,Philadelphia 76ers,/teams/PHI/2021.html,99,/boxscores/202103160PHI.html,,"3,071"
+582,"Tue, Mar 16, 2021",10:00p,New Orleans Pelicans,/teams/NOP/2021.html,124,Portland Trail Blazers,/teams/POR/2021.html,125,/boxscores/202103160POR.html,,0
+583,"Tue, Mar 16, 2021",10:30p,Minnesota Timberwolves,/teams/MIN/2021.html,121,Los Angeles Lakers,/teams/LAL/2021.html,137,/boxscores/202103160LAL.html,,0
+584,"Wed, Mar 17, 2021",7:00p,Toronto Raptors,/teams/TOR/2021.html,112,Detroit Pistons,/teams/DET/2021.html,116,/boxscores/202103170DET.html,,750
+585,"Wed, Mar 17, 2021",7:00p,Brooklyn Nets,/teams/BRK/2021.html,124,Indiana Pacers,/teams/IND/2021.html,115,/boxscores/202103170IND.html,,0
+586,"Wed, Mar 17, 2021",7:00p,Milwaukee Bucks,/teams/MIL/2021.html,109,Philadelphia 76ers,/teams/PHI/2021.html,105,/boxscores/202103170PHI.html,OT,"3,071"
+587,"Wed, Mar 17, 2021",7:00p,Sacramento Kings,/teams/SAC/2021.html,121,Washington Wizards,/teams/WAS/2021.html,119,/boxscores/202103170WAS.html,,0
+588,"Wed, Mar 17, 2021",8:00p,San Antonio Spurs,/teams/SAS/2021.html,106,Chicago Bulls,/teams/CHI/2021.html,99,/boxscores/202103170CHI.html,,0
+589,"Wed, Mar 17, 2021",8:00p,Boston Celtics,/teams/BOS/2021.html,110,Cleveland Cavaliers,/teams/CLE/2021.html,117,/boxscores/202103170CLE.html,,"4,100"
+590,"Wed, Mar 17, 2021",8:00p,Golden State Warriors,/teams/GSW/2021.html,108,Houston Rockets,/teams/HOU/2021.html,94,/boxscores/202103170HOU.html,,"3,259"
+591,"Wed, Mar 17, 2021",9:00p,Charlotte Hornets,/teams/CHO/2021.html,104,Denver Nuggets,/teams/DEN/2021.html,129,/boxscores/202103170DEN.html,,0
+592,"Wed, Mar 17, 2021",9:00p,Miami Heat,/teams/MIA/2021.html,85,Memphis Grizzlies,/teams/MEM/2021.html,89,/boxscores/202103170MEM.html,,"2,217"
+593,"Wed, Mar 17, 2021",9:30p,Los Angeles Clippers,/teams/LAC/2021.html,89,Dallas Mavericks,/teams/DAL/2021.html,105,/boxscores/202103170DAL.html,,"3,975"
+594,"Thu, Mar 18, 2021",7:00p,Utah Jazz,/teams/UTA/2021.html,122,Washington Wizards,/teams/WAS/2021.html,131,/boxscores/202103180WAS.html,,0
+595,"Thu, Mar 18, 2021",7:30p,Oklahoma City Thunder,/teams/OKC/2021.html,93,Atlanta Hawks,/teams/ATL/2021.html,116,/boxscores/202103180ATL.html,,"2,621"
+596,"Thu, Mar 18, 2021",7:30p,Orlando Magic,/teams/ORL/2021.html,93,New York Knicks,/teams/NYK/2021.html,94,/boxscores/202103180NYK.html,,"1,531"
+597,"Thu, Mar 18, 2021",10:00p,Minnesota Timberwolves,/teams/MIN/2021.html,123,Phoenix Suns,/teams/PHO/2021.html,119,/boxscores/202103180PHO.html,,"3,172"
+598,"Thu, Mar 18, 2021",10:00p,New Orleans Pelicans,/teams/NOP/2021.html,93,Portland Trail Blazers,/teams/POR/2021.html,101,/boxscores/202103180POR.html,,0
+599,"Thu, Mar 18, 2021",10:30p,Charlotte Hornets,/teams/CHO/2021.html,105,Los Angeles Lakers,/teams/LAL/2021.html,116,/boxscores/202103180LAL.html,,0
+600,"Fri, Mar 19, 2021",7:30p,Sacramento Kings,/teams/SAC/2021.html,107,Boston Celtics,/teams/BOS/2021.html,96,/boxscores/202103190BOS.html,,0
+601,"Fri, Mar 19, 2021",7:30p,San Antonio Spurs,/teams/SAS/2021.html,116,Cleveland Cavaliers,/teams/CLE/2021.html,110,/boxscores/202103190CLE.html,,0
+602,"Fri, Mar 19, 2021",8:00p,Detroit Pistons,/teams/DET/2021.html,113,Houston Rockets,/teams/HOU/2021.html,100,/boxscores/202103190HOU.html,,"3,061"
+603,"Fri, Mar 19, 2021",8:00p,Golden State Warriors,/teams/GSW/2021.html,116,Memphis Grizzlies,/teams/MEM/2021.html,103,/boxscores/202103190MEM.html,,"2,716"
+604,"Fri, Mar 19, 2021",8:00p,Indiana Pacers,/teams/IND/2021.html,137,Miami Heat,/teams/MIA/2021.html,110,/boxscores/202103190MIA.html,,0
+605,"Fri, Mar 19, 2021",8:00p,Brooklyn Nets,/teams/BRK/2021.html,113,Orlando Magic,/teams/ORL/2021.html,121,/boxscores/202103190ORL.html,,"3,665"
+606,"Fri, Mar 19, 2021",8:00p,Utah Jazz,/teams/UTA/2021.html,115,Toronto Raptors,/teams/TOR/2021.html,112,/boxscores/202103190TOR.html,,0
+607,"Fri, Mar 19, 2021",9:00p,Chicago Bulls,/teams/CHI/2021.html,127,Denver Nuggets,/teams/DEN/2021.html,131,/boxscores/202103190DEN.html,OT,0
+608,"Fri, Mar 19, 2021",10:00p,Minnesota Timberwolves,/teams/MIN/2021.html,101,Phoenix Suns,/teams/PHO/2021.html,113,/boxscores/202103190PHO.html,,"3,124"
+609,"Fri, Mar 19, 2021",10:00p,Dallas Mavericks,/teams/DAL/2021.html,119,Portland Trail Blazers,/teams/POR/2021.html,125,/boxscores/202103190POR.html,,0
+610,"Sat, Mar 20, 2021",3:30p,Atlanta Hawks,/teams/ATL/2021.html,99,Los Angeles Lakers,/teams/LAL/2021.html,94,/boxscores/202103200LAL.html,,0
+611,"Sat, Mar 20, 2021",8:00p,Golden State Warriors,/teams/GSW/2021.html,103,Memphis Grizzlies,/teams/MEM/2021.html,111,/boxscores/202103200MEM.html,,0
+612,"Sat, Mar 20, 2021",8:00p,Sacramento Kings,/teams/SAC/2021.html,105,Philadelphia 76ers,/teams/PHI/2021.html,129,/boxscores/202103200PHI.html,,"3,071"
+613,"Sat, Mar 20, 2021",9:00p,San Antonio Spurs,/teams/SAS/2021.html,113,Milwaukee Bucks,/teams/MIL/2021.html,120,/boxscores/202103200MIL.html,,"3,280"
+614,"Sat, Mar 20, 2021",10:00p,Charlotte Hornets,/teams/CHO/2021.html,98,Los Angeles Clippers,/teams/LAC/2021.html,125,/boxscores/202103200LAC.html,,0
+615,"Sun, Mar 21, 2021",1:00p,Indiana Pacers,/teams/IND/2021.html,109,Miami Heat,/teams/MIA/2021.html,106,/boxscores/202103210MIA.html,OT,0
+616,"Sun, Mar 21, 2021",2:00p,Oklahoma City Thunder,/teams/OKC/2021.html,114,Houston Rockets,/teams/HOU/2021.html,112,/boxscores/202103210HOU.html,,"3,297"
+617,"Sun, Mar 21, 2021",3:00p,New Orleans Pelicans,/teams/NOP/2021.html,113,Denver Nuggets,/teams/DEN/2021.html,108,/boxscores/202103210DEN.html,,0
+618,"Sun, Mar 21, 2021",3:30p,Orlando Magic,/teams/ORL/2021.html,96,Boston Celtics,/teams/BOS/2021.html,112,/boxscores/202103210BOS.html,,0
+619,"Sun, Mar 21, 2021",7:00p,Washington Wizards,/teams/WAS/2021.html,106,Brooklyn Nets,/teams/BRK/2021.html,113,/boxscores/202103210BRK.html,,"1,773"
+620,"Sun, Mar 21, 2021",7:00p,Toronto Raptors,/teams/TOR/2021.html,105,Cleveland Cavaliers,/teams/CLE/2021.html,116,/boxscores/202103210CLE.html,,0
+621,"Sun, Mar 21, 2021",7:00p,Chicago Bulls,/teams/CHI/2021.html,100,Detroit Pistons,/teams/DET/2021.html,86,/boxscores/202103210DET.html,,750
+622,"Sun, Mar 21, 2021",8:00p,Philadelphia 76ers,/teams/PHI/2021.html,101,New York Knicks,/teams/NYK/2021.html,100,/boxscores/202103210NYK.html,OT,"1,981"
+623,"Sun, Mar 21, 2021",10:00p,Los Angeles Lakers,/teams/LAL/2021.html,94,Phoenix Suns,/teams/PHO/2021.html,111,/boxscores/202103210PHO.html,,"3,190"
+624,"Sun, Mar 21, 2021",10:00p,Dallas Mavericks,/teams/DAL/2021.html,132,Portland Trail Blazers,/teams/POR/2021.html,92,/boxscores/202103210POR.html,,0
+625,"Mon, Mar 22, 2021",7:30p,Sacramento Kings,/teams/SAC/2021.html,119,Cleveland Cavaliers,/teams/CLE/2021.html,105,/boxscores/202103220CLE.html,,"4,100"
+626,"Mon, Mar 22, 2021",8:00p,Oklahoma City Thunder,/teams/OKC/2021.html,112,Minnesota Timberwolves,/teams/MIN/2021.html,103,/boxscores/202103220MIN.html,,0
+627,"Mon, Mar 22, 2021",8:30p,Charlotte Hornets,/teams/CHO/2021.html,100,San Antonio Spurs,/teams/SAS/2021.html,97,/boxscores/202103220SAS.html,,"3,222"
+628,"Mon, Mar 22, 2021",9:00p,Utah Jazz,/teams/UTA/2021.html,120,Chicago Bulls,/teams/CHI/2021.html,95,/boxscores/202103220CHI.html,,0
+629,"Mon, Mar 22, 2021",9:00p,Toronto Raptors,/teams/TOR/2021.html,99,Houston Rockets,/teams/HOU/2021.html,117,/boxscores/202103220HOU.html,,"2,965"
+630,"Mon, Mar 22, 2021",9:00p,Boston Celtics,/teams/BOS/2021.html,126,Memphis Grizzlies,/teams/MEM/2021.html,132,/boxscores/202103220MEM.html,OT,"2,319"
+631,"Mon, Mar 22, 2021",9:00p,Indiana Pacers,/teams/IND/2021.html,113,Milwaukee Bucks,/teams/MIL/2021.html,140,/boxscores/202103220MIL.html,,"3,280"
+632,"Mon, Mar 22, 2021",10:00p,Atlanta Hawks,/teams/ATL/2021.html,110,Los Angeles Clippers,/teams/LAC/2021.html,119,/boxscores/202103220LAC.html,,0
+633,"Tue, Mar 23, 2021",7:00p,Denver Nuggets,/teams/DEN/2021.html,110,Orlando Magic,/teams/ORL/2021.html,99,/boxscores/202103230ORL.html,,"3,485"
+634,"Tue, Mar 23, 2021",7:30p,Los Angeles Lakers,/teams/LAL/2021.html,111,New Orleans Pelicans,/teams/NOP/2021.html,128,/boxscores/202103230NOP.html,,"3,700"
+635,"Tue, Mar 23, 2021",7:30p,Washington Wizards,/teams/WAS/2021.html,113,New York Knicks,/teams/NYK/2021.html,131,/boxscores/202103230NYK.html,,"1,589"
+636,"Tue, Mar 23, 2021",8:00p,Phoenix Suns,/teams/PHO/2021.html,110,Miami Heat,/teams/MIA/2021.html,100,/boxscores/202103230MIA.html,,0
+637,"Tue, Mar 23, 2021",10:00p,Philadelphia 76ers,/teams/PHI/2021.html,108,Golden State Warriors,/teams/GSW/2021.html,98,/boxscores/202103230GSW.html,,0
+638,"Tue, Mar 23, 2021",10:00p,Brooklyn Nets,/teams/BRK/2021.html,116,Portland Trail Blazers,/teams/POR/2021.html,112,/boxscores/202103230POR.html,,
